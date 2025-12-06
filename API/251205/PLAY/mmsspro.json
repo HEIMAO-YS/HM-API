@@ -1,0 +1,21 @@
+{
+  "name": "anjTXxHLCYZ4wU3r38Sqehp5EOqRIzJLaxRFgZDaSRI=",
+  "base_url": "AwMWUSNbJDXL5l9X9UNZ+GwCT+e/d3fkjpBgwR7uqbjX9dqvWXe6poLNssKkj9OZ",
+  "steps": [
+    {
+      "action": "7TOYd//EzZxDznYS/CM1enoeQusebmtuux6OI+n0jco=",
+      "url": "Yj9cCCRmQ9MYQ5T7cXZWWf48Yg+x9eKw4Q1ql7qERJs=",
+      "priority_scraper": "KhikL+KZsz2qZB7W0o2fMHYS4h2kqW3kWt2fHAzwxno=",
+      "max_retries": "EUhvy8gtRDSVjD+ZqtiQVWTHXG1XEezRR1vqXipZGuI=",
+      "timeout": "4SNxhoF497b3vOajJEtnwksr7/8rSXLmDExJGPrkRy0="
+    },
+    {
+      "action": "yVnPpWjstqtelLPaXv8nxpgKGknzrOPNJEj8pNH2h1k=",
+      "save_as": "ONc3eeowIawML5ns2EdBaq96nGMXXCCBvsvkLdvDX8k="
+    }
+  ],
+  "result": {
+    "domains": "O8aAL9F+lDH/iVIM5wQxJARk4vK88zv7PH0u2YhpsEA=",
+    "wd_url": "8ONdlhuPHyg6aJNtP1oYfDvUJdeH6J4wcVdY2zMLUg8vuwJWp8YNA07F+XZJ3rGXZIVv7z8DFrqiXuft0Ouckw=="
+  }
+}
