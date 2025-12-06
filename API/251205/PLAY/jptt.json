@@ -1,0 +1,37 @@
+{
+  "name": "L/Kg8oRV+Xi1h3gtLM8tT6a/p6cw80gH/TJtQXIBg8c=",
+  "base_url": "BbraSh6Xr5llYLqhhbC3sDefJ3uSThqRn1CXGyv+/kot6C9WnBdLghAy85PQTiec",
+  "steps": [
+    {
+      "action": "BAIPXoBr7YA7QUfUowpcPo3j+uN4H5nLY//RCH69oTo=",
+      "url": "hHuKueGW/s4fMyACmrI6aaCyL5Qyn7B7x44BKB4HR8o=",
+      "priority_scraper": "TfvD4GMesJWHAARYdRWjzh8kjNZ6bTOvQe2hSNbwSY0=",
+      "max_retries": "o/A+5PNxnHSXVvUW14PDYCDlUxxVcOvOmftQnhxwlNY=",
+      "timeout": "0EY2TNR0muBgbUNUAWiRAT7FDhQHm1JdhPm6ya6xzdU="
+    },
+    {
+      "action": "7OR6lcepNHBcqSrxW4dnIITgSknWTopLlaGQWumo+Yw=",
+      "selector": "A8hxeV0e1oaTyq4mnbPognzHKjyOJvtZt7BzG/Ka4ZY=",
+      "attribute": "6v6/UZqB/rKDnDBOpeTWcDj9tupapG4P8IV8i3NyPLE=",
+      "multiple": "ENzMjjkzQNmtwCUxeNPKCfWZUgnOgM1k/W2/pJvU+sg=",
+      "save_as": "KaQTgxTPUSp/DqKA+LqcCHd/vTSi8YNPtYNrv8zEIeY="
+    },
+    {
+      "action": "A4T8k6oCxM7Sp319AH2ZGdofuE4FJvUYRv/aCelYZ7Q=",
+      "selector": "3asUmrG6LgXz8pmvsk+9MUoZXyXDG7xyHLa7rSm86jY=",
+      "attribute": "oYK7Si9jmpiAQIFmnaaiFCdQnsLx0UZ81fNfEctXwxc=",
+      "multiple": "KAO1rbTgMcJ7otgUyiXShyBKCA6rRCRlG+VejWXEfJU=",
+      "save_as": "/sjAiwx8gpw8rshLVnIJPOJ9DYpd9xa0Ovz6UqpSVuE="
+    },
+    {
+      "action": "htm0zPNaMlA7nBrloExzoX+3j2Oj6O40x4uzmXD6GCQ=",
+      "title_list": "5EjLt5ebko0cJoXqomt/0NbXEhJFtGQQaxoXzhoUhus=",
+      "content_list": "CeS9AW8kPEi0CIdw8e9Flq2D9SbaLTVwQYGub7gQNLk=",
+      "save_as": "qBEywFlYpQyTE+gk1+ut2psJNBON2VeheDbBRRvrU88="
+    }
+  ],
+  "result": {
+    "domains": "dyscT5UD7D1b6Gg1C8aCKDyrj1GXXaGXadpcKBbT4vA=",
+    "wd_url": "1kp6jtNXy2UgOizMEOqTT9yYfP05Jnx813DtxMW5C7E7ji37MNf+yssMWBq3/Yrd"
+  }
+}
