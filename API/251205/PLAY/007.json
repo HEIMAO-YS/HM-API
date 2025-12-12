@@ -1,5 +1,5 @@
 {
-  "name": 7,
+  "name": "007",
   "base_url": "https://007112.xyz",
   "action_data": {
     "video_url": {
@@ -9,10 +9,7 @@
         "wd_url": "/<*>/?ref=HEIMAO"
       },
       "logic": {
-        "platform_names": [
-          "國產凌凌漆",
-          7
-        ],
+        "platform_names": ["國產凌凌漆","007"],
         "invalid": [
           {
             "type": "html",

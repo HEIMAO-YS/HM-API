@@ -1,0 +1,49 @@
+{
+  "name": "黄色仓库",
+  "base_url": "http://6867ck.cc",
+  "action_data": {
+    "video_url": {
+      "steps": [
+      ],
+      "result": {
+        "domains": [
+            "{{base_url}}","http://6750ck.cc"
+        ],
+        "wd_url": "/vodsearch/-------------.html?wd=<*>"
+      },
+      "logic": {
+        "platform_names": ["黄色仓库"],
+        "invalid": [
+          {
+            "type": "html",
+            "selector": ".stui-vodlist__box a",
+            "match": "{{keyword}}",
+            "method": "contains",
+            "invalid_on_not_found": true
+          },
+          {
+            "type": "html",
+            "selector": ".stui-vodlist__box a",
+            "match": "{{keyword}}",
+            "method": "min_count",
+            "min_count": 0
+          }
+        ],
+        "valid": [
+          {
+            "type": "html",
+            "selector": ".stui-vodlist__box a",
+            "match": "{{keyword}}",
+            "method": "contains"
+          },
+          {
+            "type": "html",
+            "selector": ".stui-vodlist__detail h4 a",
+            "match": "{{keyword}}",
+            "method": "contains"
+          }
+        ]
+      }
+    }
+  }
+}
