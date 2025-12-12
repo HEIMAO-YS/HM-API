@@ -1,47 +1,50 @@
 {
-  "name": "007",
-  "base_url": "https://007112.xyz",
+  "name": "tLqEhl+Izdpdt2iG+X4taWhCQWYsOvOpMl2BBzQjOcs=",
+  "base_url": "rssrCKcYPRj9ZCtLrTDRiZ8h0hynANCTMXrwANqkAErbLXvEIbSimLq6oKXQ0R+A",
   "action_data": {
     "video_url": {
       "steps": [],
       "result": {
-        "domains": "{{base_url}}",
-        "wd_url": "/<*>/?ref=HEIMAO"
+        "domains": "pAiW9jycj3rXUIJkCzAk00K/pvNMAC7v120dCd0Lv+Q=",
+        "wd_url": "EMDKshCXQcZoBM1ea+OvawTvmTFJ7pykLHtFQrjX2OjURqXMYOHgNSU4MEXEeN41"
       },
       "logic": {
-        "platform_names": ["國產凌凌漆","007"],
+        "platform_names": [
+          "uM4j/L1oOUalqEFi9gLXMMlFHXbCJ3GN5hKZxfffWys=",
+          "FyuSKcUjAdDDoq40ZN8T4kxZxkoalcQCdEcK2hNogcI="
+        ],
         "invalid": [
           {
-            "type": "html",
-            "selector": "title",
-            "match": "未找到页面 - 國產凌凌漆",
-            "method": "contains"
+            "type": "ayp52lnQf3Skf4SmZzlGkJs6xNedNGiZo7mZeSTClok=",
+            "selector": "Ey2/mBOSi1BTqk/B5id8UdgSAAX+q/lpVnXSyN6sFv4=",
+            "match": "KDbn7FwOrWm/95IbXF0iQe2VORyDXUkwjPWSHwISSywELqdeDYvakr/NlZYvaVs9IIScRhkujfskwAHI9JpKKw==",
+            "method": "naBbcflTnZ7tAx8cyY31mem7/lM2rKJq3MoTEPEXVSo="
           },
           {
-            "type": "html",
-            "selector": ".widget-title",
-            "match": "Page not found.",
-            "method": "contains"
+            "type": "8PZroIT+ToRSiSGiyOU9VIYmNnsqxlQSFxxFGh1maIo=",
+            "selector": "ZjPxcyy1tTFUImVQT9t491Mbh0PhycnN6tpE40LjwwE=",
+            "match": "MbOlTI5rR/LBBlybtdX3hkW91dFWg5sG8ZeqPOHQIVY=",
+            "method": "6q2EiuLjipS1GZRJxDWTxHpor9gseF0vfzxfSB6xy/I="
           },
           {
-            "type": "html",
-            "selector": ".search-video-number",
-            "match": "0 video found",
-            "method": "contains"
+            "type": "h9A9qOJGeJcpCEFlOb6SEgtJB0VgZ0bUSRdmc6v0flo=",
+            "selector": "krZbraJp8M3BdAi0jLjajQxydeBWhHpWROmkmulQ0B4EPWog4VlH7Ey24kSDNDQE",
+            "match": "J+tl2J3XYC7XyGIpgfb7VGWcrFySH3oBkck8aZhtOn4=",
+            "method": "Gix7L8eZWeJvlK7kf1G0BN19WodEim8mplUlRFoJDTw="
           }
         ],
         "valid": [
           {
-            "type": "html",
-            "selector": "title",
-            "match": "{{keyword}}",
-            "method": "contains"
+            "type": "LypEQSXX4WpQsFcjI+fvkvPvFCS3HeH5Wz7S5bwbGp8=",
+            "selector": "SqL1TWc2Ty51BYKTGOc2pCvbZc7jc1g/yexkjSplsKM=",
+            "match": "TK/EwTWAMhkJw3CidQAAz1RiOTdr+VJjJiXp5czuvSs=",
+            "method": "XLWpxmTi+lbGP+87cRJfIp5HghIQUrx1me3EBWgIfws="
           },
           {
-            "type": "html",
-            "selector": ".video-infos .title-views h1",
-            "match": "{{keyword}}",
-            "method": "contains"
+            "type": "tpMhXEI2l/9FerHZdmPxQnZGXp6EIXHeEV3nvbjzcVY=",
+            "selector": "KSb/1Ng6/cVoKfIm8rjGmO5NJlD2pzhFEjlS67uMaxkw+LPEx6jb0MOoy7lmnv7A",
+            "match": "Hf8aZNap1e10OW5ci/H0cr6QBATmb5V0yk4BQ53eCuE=",
+            "method": "DsnbUmZv/rza4Tf2ghGWkF5qs5DOtA+2laEkOQfwzf4="
           }
         ]
       }

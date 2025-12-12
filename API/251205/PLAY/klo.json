@@ -1,40 +1,40 @@
 {
-  "name": "LUST主线",
-  "base_url": "https://kloors.com",
+  "name": "9HfuNEr/aqkEtZ5Mwm19I0GmSO0w26+RFhQNzfoWW4s=",
+  "base_url": "5oHsAFqYj7VctPH92nPnAAEUtr8afPEosg4fNylHzwWC47BTX7+YoIXOh9rhMNM0",
   "action_data": {
     "video_url": {
       "steps": [],
       "result": {
         "domains": [
-          "https://lusta.cc",
-          "https://lustb.cc",
-          "https://lustc.cc",
-          "https://lustd.cc",
-          "https://luste.cc",
-          "https://lustf.cc",
-          "{{base_url}}"
+          "tm+G9c+mtH+D0e2mmhof/EvBCwn+bh3dcSf0A6hUGqTDs+DieSNrMqt5Vh/rQeUE",
+          "5A9UHrJUsBcu322f8xRhVKfl8aukdYEf7ZwEnKE0D6m66Z9JK+fS3HFWVKuwtBUb",
+          "b3fHNsPyOughQZFNvc9o/VouFi4NrHh4dMWI9yEb5BMjWyKSRj/Fz/uWZz6qXa1n",
+          "6QpW4dhAU8Y+gkv2ZW1I8lA8zo3vEqG3uyhKQjJUJ2QVIsijXITBf69TJjm4Wuau",
+          "Mik3xre/3yOgtPitb+vAy/y029R22xYAUdmk2hTn0nA3vo2IzBiHkGrhGfFITZHs",
+          "A1x8or10Q6DGruvN2HNFUQLLXey3aklH10gopE5Si5ybkJN7Gtfh7X6ujThGgYRS",
+          "ttbukyg40807EggOJWlm6fxvQhvjFofLoXSA2ZmU/TQ="
         ],
-        "wd_url": "/index.php/vod/search.html?wd=<*>"
+        "wd_url": "XcQMV/EfXckuHWgU2WaZn/6JiT3EGJjE1ep5uvudHV8lDzAarhsna5TvhE9K5kZEZZTgt/2Rq5qejg4aOcA74w=="
       },
       "logic": {
         "platform_names": [
-          "LUST主线"
+          "RuqbKXy03Z34Y+lGz3CNmbp6+ty+14nHHfWeMr/q7Ok="
         ],
         "invalid": [
           {
-            "type": "html",
-            "selector": ".grid .thumbnail .my-2 a",
-            "match": "{{keyword}}",
-            "method": "contains",
-            "invalid_on_not_found": true
+            "type": "NSJW9ylCpNXTjvoWUCOoveTM5LKPD3ed776OWmOMNoY=",
+            "selector": "wIlVfpzhc1BFl7ovW7dI133yezsAuyzZOU4wmdCfYbjE8BLRyOBFUZfZuOFS5NbZ",
+            "match": "MJWV47ACP4XhSKYAxZ3g4xUGSbXzjvgULui0/XHf4DQ=",
+            "method": "0V9xz6XsK1/QZrUq84djf6bjddgUrN1aKGA1G5dtAKk=",
+            "invalid_on_not_found": "w3R2NY2bwFZE/n1Kkf0qJJc+AoO2u8izymROz7948sU="
           }
         ],
         "valid": [
           {
-            "type": "html",
-            "selector": ".grid .thumbnail .my-2 a",
-            "match": "{{keyword}}",
-            "method": "contains"
+            "type": "ITXtxKt3Cxs6YJhzT0pyuPV9BUZSMMeQyaQhBMJUd/A=",
+            "selector": "hY0NepW8KXCqU10CCjbfxOPDt9qbU3XCwxfGrlNZPFowBzGhY+ZlsssxBoSWCCOS",
+            "match": "6AdIpMH6Q0SnFm0GG6n+8xHuEWUaJ9YiSyl/F0a7vFM=",
+            "method": "4QeXMMn1hXMjBZZRaAs9hg5UfOXohc2pPIC7KuE/Cvk="
           }
         ]
       }

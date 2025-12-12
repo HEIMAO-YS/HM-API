@@ -1,56 +1,56 @@
 {
-  "name": "[有码]集中营",
-  "base_url": "https://heimao.jzy01.cc",
+  "name": "Syu1KQSkmmezNEmTHVPD9D6/8NJ9A/Bi+B18VkpbXhV5EN1U1r7NSWEqPL9uZlT0",
+  "base_url": "vnCds+1WH8A6Y+x+MDAKguIxiP/D0BHiAYYjZMiyyJz6h2PXz2c4ccXe8AvuyTYl",
   "action_data": {
     "video_url": {
       "steps": [
         {
-          "action": "request_redirect",
-          "url": "{{base_url}}",
-          "priority_scraper": true,
-          "use_js": true,
-          "timeout": 15
+          "action": "UwcHuYgG7Z/4R/PsDSRPRR/D3tBuQIuBtmAC2WnouOoQaAKJXZheTsW0MwjmNNiK",
+          "url": "/QwcwOBi32J/0VpHa+NV4NWZXVcrnMyqoOz/jSvBuvY=",
+          "priority_scraper": "m7beVAq6IjxgdZaygqjNNgpGLCPw9adizjnh59RSvrQ=",
+          "use_js": "+T0+KFd2oiXjnqm8Ia7yUwUdV5rxru1EPfYpgB0UtLU=",
+          "timeout": "6Xa4Fap9no7/WNWxjX3wSwCTvKu/fVi1yRMngKpTe0M="
         }
       ],
       "result": {
-        "domains": "{{real_domain}}",
-        "wd_url": "/play/yjs/<*>.html?ref=HEIMAO"
+        "domains": "mhJXs4UjOHoyAZUqvt2LMUYlknX0ZX8NnxJLSqN+AHg=",
+        "wd_url": "6QtMl8b6LoDqr/sjTULkQC5wm0Zo1lHcPlCPZsRisSRGNwPj/oz8hcJADohBPMYx"
       },
       "logic": {
         "platform_names": [
-          "[有码]集中营",
-          "jzy"
+          "2TdA9vqtDT36tKhNvDhSR6xri+bjn8eGqYzAX+ii/PtUrzCprlk9GJEhAWsnEjOa",
+          "fNle6wZ8ple2bojaFmLaBmiG34cCXhnpAxHSf0dYinE="
         ],
         "invalid": [
           {
-            "type": "html",
-            "selector": "div.mymenu",
-            "empty": true
+            "type": "w0lQudsF3unhzLeZKE0KcHyL0f3v9ne5qOgYECTjfoc=",
+            "selector": "MdL7QtPy/IDMd7jBi/52YsPms4O+viYCsiylYKxKCus=",
+            "empty": "PGR5+eiScunDor5b4N2BtWF15s0MNrZ172Wa8D4I0zU="
           },
           {
-            "type": "html",
-            "selector": "div.mymenu",
-            "match": "{{keyword}}",
-            "method": "contains",
-            "invert": true
+            "type": "czES8N7mUyFryshHMp/dJKbP9YCE8UkRn1BeB3ZYts8=",
+            "selector": "Q3zC1RUs/iNPwnehUUlMUcu7wGOesV2fGOxXMZ19b9c=",
+            "match": "WKb+HXc7GMNPvQdLGmaB+SI5rEa3+OjL4y3LKo00Fw8=",
+            "method": "Za+MTZPf8/T9YWcQVh+fWjjQRXYDk7XoX1iAbAC9cZk=",
+            "invert": "UL5hdUR69kxyuJZa2RhTwwReQGhvU4TVsCHXdsCiBXk="
           }
         ],
         "valid": [
           {
-            "type": "html",
-            "selector": "title, h1, div.mymenu",
-            "match": "{{keyword}}",
-            "method": "contains"
+            "type": "NK4U89lPlaBQ5iMdR3dboCcSfEgnxZO290xVSMx0a1s=",
+            "selector": "L/oM3e7oUhgMbu0fVPaCFm/Tu+E5fBLbrVN/wrABkRJ82XLr5prpJouyHQMjA/AB",
+            "match": "tf9pOIBB+TUKsHyisE+9YZ5NecTGtyjxkKrI9+XBcoU=",
+            "method": "JzJif+mx8RhryAI3iLa34nymiiVXinsjLZdQ9pqLnSE="
           },
           {
-            "type": "link",
-            "match": "video",
-            "method": "contains"
+            "type": "jq5OmJTvw6itVAukEsAJbWs/AF411w8UA+leyRdQMAw=",
+            "match": "WZg0ZBJmQiL3RPfDbDENc6I5zttTNVwHLxpz7j/ZmjY=",
+            "method": "Qh84Py/kYyj1rXjhnbDoHkWWFS6qe3Ln7k0wMvK0Na8="
           },
           {
-            "type": "html",
-            "selector": "video, iframe",
-            "min_count": 1
+            "type": "PgGinfEcMlJWyuE4qJooMztzyaVIcMxdD7A6FvXlehw=",
+            "selector": "7nFFQAjT00+pZ0YqDVXqmuMLWSBtpJ9pDDkmhw8uUnU=",
+            "min_count": "pObgT6iOaJc4M7WeDkDzDoWjLK32Key+Z9hKMw46vLE="
           }
         ]
       }

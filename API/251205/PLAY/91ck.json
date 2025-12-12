@@ -1,53 +1,53 @@
 {
-  "name": "91倉庫",
-  "base_url": "https://666400.xyz/j95tb",
+  "name": "uaLniq7i+GjXJsUhBGfezxU7F5ZgXyL3MHeaU+wlAt4=",
+  "base_url": "is1OdgYpebYohBL2nl1Fls7F7FJJjSDeBwfJU2WOIt8HH+8hQfkXK/JnFaRmrxHZ",
   "action_data": {
     "video_url": {
       "steps": [
         {
-          "action": "request_redirect",
-          "url": "{{base_url}}",
-          "priority_scraper": true,
-          "use_js": true,
-          "max_retries": 2,
-          "timeout": 15
+          "action": "SVnsPM/5MeVaXl35xMhkv1R/jZWB22bSJb33G5hz09pPQJJaYyEU2VsHCOUINd8A",
+          "url": "Beib4K5XsjvEEovc7kTGJrxBpZdJEaaUqucQkHM9i9U=",
+          "priority_scraper": "jLgwRmKVvgRrFfrcyZQyPJmK9X1u9Bf3MN66wYn2xUc=",
+          "use_js": "y9THXHF1H2aauwI9sysbbmvXJUJDB93gB6uKfFXz/zc=",
+          "max_retries": "WTyA3M24KM+KaehRmak7yyaxMWsiGg+7dJUHOjdD2fI=",
+          "timeout": "SqnSjmkybt247hofBx6OGvNnhKFLufabNWJo6LvgnrI="
         }
       ],
       "result": {
-        "domains": "{{real_domain}}",
-        "wd_url": "/<*>/?ref=HEIMAO"
+        "domains": "KJ2zzmtDGUF3Hi36NHBCG7uvkWhBj1TMB/pia+lAwOQ=",
+        "wd_url": "I1lzfGYwXBR/38GOfkNL9W9Rl3n+5O04bJ8kFdCfdEO+RhMInDvZ2LE0a6wMcbK3"
       },
       "logic": {
         "platform_names": [
-          "91倉庫",
-          "91ck"
+          "iivo5lhirquQ5Rl0pyQnfj82Ji82or8bcTOYiDdNgSQ=",
+          "JiYqpa6Xwxd0EWOnN1gr3YPdKYM5vTv1Cme35hPyrkQ="
         ],
         "invalid": [
           {
-            "type": "html",
-            "selector": "title",
-            "match": "未找到页面 - 91仓库",
-            "method": "contains"
+            "type": "f/miagpXVwBsA9qdYw0Qu5TwkJpNPK4qU37VZE/AM04=",
+            "selector": "MRIsADX6xspvhb8ktT2dHfAV19ZkY0yy6Xip46wc58o=",
+            "match": "FBvKOdGy6SvKg2eqDlk3iBnRt+JpXcMafwHhVtcqK+dOf7WahOzVb2oaFnh7F0QQ",
+            "method": "aoL5g/Z8wL/ZHvZYn8hyLZtjKIXT4mKCri3frcJFjR8="
           },
           {
-            "type": "html",
-            "selector": "span.current",
-            "match": "Error 404",
-            "method": "contains"
+            "type": "/1cn+3g1eIxiJauzIVYrh1IuxqTYpyolv61LMw/U+TE=",
+            "selector": "B1xrtPRanf0Zc1SG2dDSsH+ulCk1qYG82g6RuxJ8wDI=",
+            "match": "u9EFkkcGHBj/7qC2f6x8vCCY1Nf/1V5/Y+7jFPojniI=",
+            "method": "VPVOKe+Udxylr+tkKdD1O9Tfm44V5J6xHd8s6w7Kdds="
           }
         ],
         "valid": [
           {
-            "type": "html",
-            "selector": "title",
-            "match": "{{keyword}}",
-            "method": "contains"
+            "type": "+GnvUIXKWACODrh2MHjWgSzpbg8ygMj4rKEZ66SUPx0=",
+            "selector": "wQD0pqAHjSbaHyJbs3JN4cI+7QM9/9Y8SviGUI0qtdA=",
+            "match": "N//6TaPk/QdVuMrR7h7VUkrzOkbsF9skyM+zymB0Io4=",
+            "method": "x/wUeY2Wzlg+3a6gYlEztXqp4SwD5aJxMj5jronH1E8="
           },
           {
-            "type": "html",
-            "selector": ".breadcrumbs-area .current",
-            "match": "{{keyword}}",
-            "method": "contains"
+            "type": "NptOCUBtMC7AvvLznnmtr4J6kHVPuLgZPa2/IRyn7nI=",
+            "selector": "ByLIjoY8sMSIe5Ku38PbhDM1C0mLWKboADf1N4GwFUc4RJt2vXQWwHs9uNdIldq9",
+            "match": "g3peTwDx6T5FNKlhhxNZDZvW8LoPOSc/eNozJMBFsi8=",
+            "method": "uPVDT0fmcMSCnPTD4l6evWqVD02AgRpPN4fquqhYW30="
           }
         ]
       }

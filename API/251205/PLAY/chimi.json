@@ -1,62 +1,62 @@
 {
-  "name": "痴迷AV",
-  "base_url": "https://gitlab.com/chimi2025-url/chimi2025/-/raw/main/README.md",
+  "name": "D27n4gUU8d5G/hwVl/flXutvZXB6P58COjsJyWiscu8=",
+  "base_url": "5uW4mfmZVyePjJ15K66sD8I2UDuD4ASVWTh4EASgGZjuWAUQMyJtgJetlWSWmlmK4A53B0f1RVzYZLctTySmFQ2WvxryqwqMlzM0oPXvAZU=",
   "action_data": {
     "video_url": {
       "steps": [
         {
-          "action": "request_js",
-          "url": "{{base_url}}",
-          "priority_scraper": true,
-          "max_retries": 2,
-          "timeout": 15
+          "action": "mzzg35eRkBCRNOfPtBrKWdMG06yhHMKk/wr0RIGWAWI=",
+          "url": "4/b1KshrrXcTYoDMfqLvDhjt4WN1WGVTsCISGKKqaA0=",
+          "priority_scraper": "vefzE1YfkpFVoqJm1bT+FnH9hnm3OHP4lUt0Q5hxs84=",
+          "max_retries": "6+b2LFvSNHmgVgL9TfyLf8xPD05x3Vz4DdEuYdPuq90=",
+          "timeout": "kAyM9BqnaywpyuTjwnZMCXn/zjgCJ7GxTFUl1f5iBVA="
         },
         {
-          "action": "parse_text",
-          "content_type": "markdown",
-          "regex": "最新地址（无需翻墙）：\\s*(https?://[^\\s]+)",
-          "group_index": 1,
-          "save_as": "domain_list",
-          "multiple": false
+          "action": "2O8J96BBnGlj6OJ0NZW+EXD7qqqD5eMWCIC05LRaPq0=",
+          "content_type": "0/ZnMfgWobaLdxDsPjsagRB/4MmJKSwlpVUPwzWr8iA=",
+          "regex": "F1zmMFSTila2QyyYQW6/j6B5LkXA+ZUUOaHfilp/k54Ui1wKv3OBhhkrjL8t8Y+MQ5O9LJpsAsd8SlfBDCUCCegXpw/MH2ZU9BueSnWCVIw=",
+          "group_index": "cxIdVEV+UlIfjIwd14u8kGwhsnpVp3jFCKUQhK7kBSA=",
+          "save_as": "Oqx/XmsRR0zELyPZr8D4fPXwmD9QGvmqcZExb3v5xzg=",
+          "multiple": "wixtXha9qKKTkGjoa/MPAmHtLOh0jr+Y4MlBto0LNpA="
         }
       ],
       "result": {
         "domains": [
-          "https://chimiav.com",
-          "https://chimi85.cc",
-          "https://chimi86.cc",
-          "https://chimi87.cc",
-          "https://chimi88.cc",
-          "https://chimi89.cc",
-          "https://chimi90.cc",
-          "https://chimi91.cc",
-          "https://chimi92.cc",
-          "https://chimi93.cc",
-          "https://chimi94.cc",
-          "https://chimi95.cc",
-          "{{domain_list}}"
+          "gXTL4JFU9ipicqo1c4Vuql/V9ym1GcqrhMklkxRJMu1c3OPxOGL8hnplyH7WobGa",
+          "VuouUCAMXCLjJbIqicWPPT0b6nJFXp5ml3isZ0vJWFsTS7+deptTnXNx2VfJZHM6",
+          "Vheh2ltCXdPi9JTwubKIxlcvA+BJjPp0qWMAvuu7CTx9C2I/NrY/vOIHuvEgbCA4",
+          "G+q0swUSZCAGpnu38BwyJyvMjtB8/gx9oJJOih6LSJGqP4rH1SSci/WDvfYm5xoq",
+          "dloaenHyWU6AgSB88CcU2Ids3e0/qHLmc93ZsiTcB3aGeAHWchDzzxrh1jwWnYpY",
+          "cNvTp7giZJWlxGheXYpE2XGEXQHKBQnbi44p1vNDgteiVhAIaw4lWxGQmTtp8m1H",
+          "aTiz7/nFIhF3bqjS0/qHHC3IanQe5HYYp9rI4JUZxAJyUviZUyDnMwV6Eam/gDX+",
+          "Ig0DvqFnednbbUt3vgPiN7ZOg6JXgeLjQ5GLJSNvwb9RRbyUBeFzKMstjyq50xr6",
+          "iOBesbp88+KUXDajGPNkkSgUwaFiVd/SgbZ165UXF/ZSkFg/iq8OLvnNgyPt9qev",
+          "+sRgDcQJS3Gd0BQyfC4KYvblL3wGAvRexCAqTIK9w8YzhUjrQdUNJkVj6VwllpOP",
+          "3b3GqHVc2s85sktoMv46xK/KqvMkS2j0+bpwjbxE6slf9viHK6uSrseESLsWcTWe",
+          "pfSTPsOj323Hj+aH6tv6KwWHj4px/4cQXIU6ojcRGTrs9+Q5gfSpnuImj06K8hkg",
+          "DlUpFGhyziWlUqsRnFYl2Xe9x0RwyrHJiyLPNNUCRtM="
         ],
-        "wd_url": "/index.php/vod/search.html?wd=<*>"
+        "wd_url": "z0SQhhXPRDI+RnuCBOS88zESXACz0vRHdcpVYDEnxwQmXuS1EgFh4shhduo2vAbwP7GoD90mgpIDMFq7jC8Q+w=="
       },
       "logic": {
         "platform_names": [
-          "痴迷AV"
+          "qQ6h5JrJ7oKWVkmT1wK3jf1kb15lJiW4PYI4ICFo0n8="
         ],
         "invalid": [
           {
-            "type": "html",
-            "selector": ".list_box a",
-            "match": "{{keyword}}",
-            "method": "contains",
-            "invalid_on_not_found": true
+            "type": "QsG1FFL8uKWlkJZ317JAH9fkoRB0DuabK4yxGvIRjiQ=",
+            "selector": "Q3Ndzo4Fs4/w08GYWeQV2VrMyAqPkhQcY5ofas8ly84=",
+            "match": "XB5Y4wV6VuHKocmnR3Van6SSxeD85dgP496+0WS6jI4=",
+            "method": "neud266VPpeZz2dmB+I+dMl4XDg7xisveAZo2M3v/yw=",
+            "invalid_on_not_found": "fXiUTF4zxaT7Zh08MupprdzhH5v8mfqpBg/+cAqKx1Q="
           }
         ],
         "valid": [
           {
-            "type": "html",
-            "selector": ".list_box a",
-            "match": "{{keyword}}",
-            "method": "contains"
+            "type": "xvFiWKNLT8KQ/BIDv1sgmga4QgGvTso/ybGJcPA2LFc=",
+            "selector": "7OQ7AzafMAT8RvecENrkgM2awom3WYWb/zS+3p9BNp4=",
+            "match": "vsrQmkRWQAADjulJ6vjjdY9lAAIOdRc22gPpKSrkNcw=",
+            "method": "O3YlyC7Bgnk7J2YdR2PmXsdj9+6TxOllHptyQtDxQM0="
           }
         ]
       }

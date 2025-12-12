@@ -1,63 +1,63 @@
 {
-  "name": "禁片天堂",
-  "base_url": "https://ttvvcc.work",
+  "name": "LhDq4+gZSU3d2JeYXCjKpdoXCoGHHbOzkR06VCEq6Y8=",
+  "base_url": "Jh4hlh7vFsc52A3TyaOw795EywTKika69hANi6xpq1iPhUadncnF2yLKlNdgSBtL",
   "action_data": {
     "video_url": {
       "steps": [
         {
-          "action": "request",
-          "url": "{{base_url}}",
-          "priority_scraper": true,
-          "max_retries": 2,
-          "timeout": 15
+          "action": "32++XeFAKPUzSVjj2GUA1BrKfWSFMtax2UeiFLiOcZY=",
+          "url": "q+zXYLSmY+zMoI28RnQS1J3/NxJ0B5u8m1Jlduz8oU0=",
+          "priority_scraper": "xte//4nxP2TN6Knk8xKRYj0NJtxzOQkMRGxZtPjhHCA=",
+          "max_retries": "ZEj2KJb+nHOUQMwyMGjnWg7IeHmErButyJ4iXYsnD08=",
+          "timeout": "E/5+QXuEvo9OotH5nBr5w3F+r+dHtbx9QmkJIU5AwuE="
         },
         {
-          "action": "select",
-          "selector": "div.info h3",
-          "attribute": "text",
-          "multiple": true,
-          "save_as": "h3_text_list"
+          "action": "Yd5ig51LabYNxjAOys6kp3HIRq2sPvGhk2O5vLTInAw=",
+          "selector": "weAPB4ybbYjlUHC5cYgcrY2wr+3Yp80BNR4cNaAX27M=",
+          "attribute": "E4aALDsUXbwQfpqXLgCyChrlo8HBe1S+oKSRZzQGGTs=",
+          "multiple": "KZol6dKzhB5mOmJbLeSzrxzD2Hiqy2OuRGjEKryx93Q=",
+          "save_as": "Zwkn/HUBTw6etPHaDsl6n8+uwDjXR9JVxXnML4a13sI="
         },
         {
-          "action": "select",
-          "selector": "div.info h4",
-          "attribute": "text",
-          "multiple": true,
-          "save_as": "h4_text_list"
+          "action": "5TKREfU18DYza4gFNfORoa1QXaDba1OyZ1MWr5H6izI=",
+          "selector": "Io5OrQFzTgOutMkeQSpfOppL2xRiwlqNV3OEJWLGbPM=",
+          "attribute": "yBDXVE43RYzTaCEISf20f3zYvAIppbo0zABNWbCKuew=",
+          "multiple": "GmssaMJCHO5f6oSURCan5eGRiCLnbwW207nSBWNkwd4=",
+          "save_as": "LTCR2AgtVkdt+1P+pJZa2ml071kJqvide9d3XGtMaHI="
         },
         {
-          "action": "extract_domains",
-          "title_list": "h3_text_list",
-          "content_list": "h4_text_list",
-          "save_as": "domain_list"
+          "action": "dNI29s+HUcSEzbqX8TqVzU53UlHxqntnxWWgh4eFlg0=",
+          "title_list": "ZWMdtIWDUZRVsNvfYLTiZQuVKMdoyc28ub6f51FUD34=",
+          "content_list": "KAJQu+p4kySgyjCCzPJ1JKvsPrkFrf+X7ZU0UymHWIA=",
+          "save_as": "uQI1APCRXEN8ETP1UyW+AHhtGwxiJgPpUJ++wBalljc="
         }
       ],
       "result": {
-        "domains": "{{domain_list}}",
-        "wd_url": "/video/<*>?ref=HEIMAO"
+        "domains": "0N9259+T0khz1pu1rU0gjulYqVeNlN8kY+5bjV+UVaA=",
+        "wd_url": "AD4g4VMze3dU+RIJ7I7uiJSCeeSiYLaLz/wCC7SEfADXU1I4NxQaqkV9vE3YEp1H"
       },
       "logic": {
         "platform_names": [
-          "禁片天堂"
+          "tYRw3Syvzmg5vqSrB0XlGbTWpAwhq187UuRMfAkq6kA="
         ],
         "invalid": [
           {
-            "type": "html",
-            "selector": "title",
-            "match": "404 Not Found",
-            "method": "contains"
+            "type": "cYlYeUiDHysc8N0b8O23rgAsI19Xm4YpB06HTem8Hc8=",
+            "selector": "iDsJu45ycZDSq3H0bwodHr19iY8Ao5LDP7jtcLDz0ok=",
+            "match": "rYpALCzOQcuFOa0/Os92SnTn4KLKWVyZaoQ/eAQLf3g=",
+            "method": "RmcjP4VHXqRMn8IOV4q8lCsiBXqlP33SsrIeGM0lC6M="
           }
         ],
         "valid": [
           {
-            "type": "link",
-            "match": "video",
-            "method": "contains"
+            "type": "UEUF8Y45D/kQ6ldOs9NgAhmbdvceKKT8oaYc7otJj2g=",
+            "match": "vyPLK9Xyttq8vBZOV75Leo3y9PWT7t/KUZbEVCNPfaA=",
+            "method": "lByqiNcBzQVB8hC5U52awd+4qgo2x6zGAzYQ7v05YGc="
           },
           {
-            "type": "html",
-            "selector": "video, iframe",
-            "min_count": 1
+            "type": "2txwI2zwAXNifu4w65t5mj5HI7ARIOsb3KkYdL3aRP4=",
+            "selector": "pjr/A7nmxjq34RRwJ6kYy3UbgxcmkguRJgwsI+mORKo=",
+            "min_count": "YiGnp+SPdWT+ktH0odHJ/F/4SwoJ0q6SaKv/H94vwq8="
           }
         ]
       }

@@ -1,46 +1,48 @@
 {
-  "name": "黄色仓库",
-  "base_url": "http://6867ck.cc",
+  "name": "5f7er002Qj+f4UrQTB1b+QOeIU3fnwCBqXDQDsQAvqY=",
+  "base_url": "gCTgtzVgSZalUbcEFBIZQ84VY4eoxnpxiuix+O+96+arLmSvpTR27Kvjvkf3EHZX",
   "action_data": {
     "video_url": {
-      "steps": [
-      ],
+      "steps": [],
       "result": {
         "domains": [
-            "{{base_url}}","http://6750ck.cc"
+          "aw57fLZOlNYWYWmS7sg80/QdcmgJ0aLU8jl/9IIYofY=",
+          "ZCt729NVAyTZpa7zS7FOy7leV+YWXf46ywgNbmBtX3tSuG6RERmMvnJKoQLgJUSm"
         ],
-        "wd_url": "/vodsearch/-------------.html?wd=<*>"
+        "wd_url": "B1RY0wIUYSrTr87AmCCSJsHOpZVmLUkOi6n5lWPiRF5vC2kAQDKpCogsPMnXoLFWS3JctsT7F2AQtZZJbyguZA=="
       },
       "logic": {
-        "platform_names": ["黄色仓库"],
+        "platform_names": [
+          "XU4xSsHEH+7Oiyag3kLLOqTq2UtX1hSHRC/GGkdYoRQ="
+        ],
         "invalid": [
           {
-            "type": "html",
-            "selector": ".stui-vodlist__box a",
-            "match": "{{keyword}}",
-            "method": "contains",
-            "invalid_on_not_found": true
+            "type": "aCjwe3VfGMTEV4sIBxXW83xHrEeS19BcVdeKy2LtBv8=",
+            "selector": "b0OlhzIXnB0/aT4AQFS/G7cmTJi6OfXfRl34XxYUGZ9knCHOZvUSk5LB02Bnn2qN",
+            "match": "LYhWOf6bvT6fZZGCZMtfJupMDXKFMqPchuNSKlmKQ8s=",
+            "method": "FwemcK8TmVHX7Oam5BQv49Diw8GHZnLzBKsa5iE6qcY=",
+            "invalid_on_not_found": "g5PDk0oXG0jjU/vArntjd13mcVo5MNs2Yp3n1jaCYDg="
           },
           {
-            "type": "html",
-            "selector": ".stui-vodlist__box a",
-            "match": "{{keyword}}",
-            "method": "min_count",
-            "min_count": 0
+            "type": "p5S4MYyUsSoEs0Y1Wt8L6E32hWTHZ2X5025ILpnLvHU=",
+            "selector": "vtAPGaWXERzEyTUmkHiop9NagPF4a99HDc7eAjAPyrQLBTMaSlEaiRDvvazC9wZJ",
+            "match": "0sQebkOIH7epo1uqwxlL7bgVfuYMmhfqTSWhj9HQntw=",
+            "method": "SruHJ9URVEHZrFsk6Es/K8jvYGQn1q4u8wPP50r2TNs=",
+            "min_count": "o6eM1vDtgSrVw0tmos4mDW8eIB/04z8yi/hFZAYgTZ4="
           }
         ],
         "valid": [
           {
-            "type": "html",
-            "selector": ".stui-vodlist__box a",
-            "match": "{{keyword}}",
-            "method": "contains"
+            "type": "GfuheTTFC2fShdbtovN4fzDd0zm6vtwqBxbkCtDvFvI=",
+            "selector": "2w2QY+cEG9WW9EF9owh7elbDvMfiUdbJVswNfKEPA85fbspHLZymEILDX0Cx/kny",
+            "match": "I4kP6OMg+ypBRN2VtCKra3rCyinUCsa4g8ObPetWxRo=",
+            "method": "jeC+VpN0D/FJbZUKOXVQMlVy01YUvv48BKX/wXDCln0="
           },
           {
-            "type": "html",
-            "selector": ".stui-vodlist__detail h4 a",
-            "match": "{{keyword}}",
-            "method": "contains"
+            "type": "z41ey1lXXYYvkXZuDv7JIrupF5aP0VNe09oZuncgLoQ=",
+            "selector": "LzpdR1UPPZvYn1tBanBMIG3JTmwMrXJ5HJ0W5QsAMZYl3m0l3G/lGxUNMxzsiMz+",
+            "match": "AVhcuRLSwvLYl0Ew1cjA6Fam7F9v24IsK7Oai5I9WZc=",
+            "method": "G5aLi3oOsaknKV7dpd6Yg+MIk8/dULNVrLmHJpPz8Hw="
           }
         ]
       }

@@ -1,40 +1,40 @@
 {
-  "name": "[有码]JAV.ZC",
-  "base_url": "https://heimao.ja02.cc",
+  "name": "qnNyNLbNLLu01T6fIbydfsDzjb6MNSfq1kT7dKKFKg8=",
+  "base_url": "ZREQEma7aGSxe2WrxQ6zuk4gAeSWyVir36x0HxZuGu1Pbz7nikUB6X+0lPk2znUu",
   "action_data": {
     "video_url": {
       "steps": [
         {
-          "action": "request_redirect",
-          "url": "{{base_url}}",
-          "priority_scraper": true,
-          "use_js": true,
-          "timeout": 15
+          "action": "GWIHbMWcMCGWuOh1QUVpYDxXDZj7d0SM+EFdtm95SCXykFQHjBFRLo5XMYMOiR1o",
+          "url": "Gt4gbmck9aLBwN2HVCIOaRM8JYQnwdY0/rSXXwhWOgw=",
+          "priority_scraper": "jiblvJ3CaHip5gIbPqFmn4SMgCEegpX4xKQ6J9e4zrg=",
+          "use_js": "3Xh0ETbiivTliEO3Qvt8Aaisag6r3LUHPVODNPLJUT0=",
+          "timeout": "ilqcgKSQLVnDYmRlbfrPN/Z+4773/dBVvp/mOGPjqOs="
         }
       ],
       "result": {
-        "domains": "{{real_domain}}",
-        "wd_url": "/play/yjs/<*>.html?ref=HEIMAO"
+        "domains": "6eEOkvQaI59RQthsTCH/zDuwqzdiPRtfAuCGd7sPQ0o=",
+        "wd_url": "Ql94TQlfbzD3YZSO7arGRFCbuA+zxIAZYcAywzVo1c5zX0ngDlwfOLWDgH+yb1Xh"
       },
       "logic": {
         "platform_names": [
-          "[有码]JAV.ZC"
+          "e0ApmZDhDdpm+N/PbhvHPPDtVqwwLvTy97sUnCh2ols="
         ],
         "invalid": [
           {
-            "type": "html",
-            "selector": ".group-box .group-title",
-            "match": "{{keyword}}",
-            "method": "contains",
-            "invalid_on_not_found": true
+            "type": "JIadPc+Q2sw+RBSPmkHaRGlDMNrirI8IdLT41mCtMG8=",
+            "selector": "6P1d02jh5Guf0aFUCvtRtsRorJ/RKu06Rf2cVBmYGXUoISOWrEi72OQnklh4t/tB",
+            "match": "RfiiTxqZzsIWgy0bOhBII45jiw8UKpPj/nRxjQsPh7Y=",
+            "method": "fe2r+twDK2UqWL2jUun16nPLDQJate4re+5yvASJRDI=",
+            "invalid_on_not_found": "XOqKuvxja8HDPL4xFDzNTDHyghKBCghQnGoE02WakA4="
           }
         ],
         "valid": [
           {
-            "type": "html",
-            "selector": ".group-box .group-title",
-            "match": "{{keyword}}",
-            "method": "contains"
+            "type": "oqIfvYfuWjIqD923YBqIU2EsAHKxPOFWDkxR81n3Fbk=",
+            "selector": "cf5YkSdWaoQp6KFSd9OwdKouIvl0MYqsvSRaFU06ibdnOVYB8FqJEoGMia+uhg5m",
+            "match": "9Sg+GTmE8WDEekfj9niy5cT2c1xvn1WvYb8/vEjnGkE=",
+            "method": "xJySY0sHfXyvtGppA6V6rQl9UYKO/98h+DR1Sky095k="
           }
         ]
       }

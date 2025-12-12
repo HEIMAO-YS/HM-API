@@ -1,63 +1,63 @@
 {
-  "name": "东京热AV",
-  "base_url": "https://proxy.v2gh.com/https://raw.githubusercontent.com/djrAV-888/djrAV/refs/heads/main/README.md",
+  "name": "Tc4TdRRzTM36x7qkc93cJJHjf042pIXoNTDRF7QEFQU=",
+  "base_url": "YuviMGuCqHzjTGszoMOo28Mn+B5Z4q4BGwI8HJvaXJ49PwkEKrvowSK6xm32ec82PweHYYfO/GSZirFQJZap1cfUcEtS8TPBjTX2YFcqTDVOJHBLDMfFW1eH1HhVB3ecBbIvm/kNwmTrDrxHFOc+E/VoG661XIWhFPX7nj8To5Y=",
   "action_data": {
     "video_url": {
-      "enable_js_redirect": false,
+      "enable_js_redirect": "MO0Ot/7zJ4G4yUaIYFb2gR+cWmRIjRHkjcw0+2tPOgw=",
       "steps": [
         {
-          "action": "request_js",
-          "url": "{{base_url}}",
-          "max_retries": 1,
-          "timeout": 15
+          "action": "RFJaLdXXaiEO53LPT6FQd9M4gxadhZ4aWID7q6AVNYk=",
+          "url": "kH4gkjyoxiVdlJuYjmfOWmH/jHLMurtK1icjyQW8R1w=",
+          "max_retries": "0J6If40Rqg5jUiyal+tlLVGd1NcVCCXuhT/me/1ZNPQ=",
+          "timeout": "A1JEAYWPjZkTOLOYfG2QtKsdM462KLkW8GMXYPnrtbo="
         },
         {
-          "action": "parse_text",
-          "content_type": "markdown",
-          "regex": "国内最新网址 \\s*(https?://[^\\s]+)",
-          "group_index": 1,
-          "save_as": "djr_cn",
-          "multiple": false
+          "action": "U+YCMhgBAQlOF6NHM2LGd+cFjXComUiIGAGzRbjBvvs=",
+          "content_type": "W4k3qoqR0hcRHFt32Rkg5uwY338tHM/rI21obMjJz70=",
+          "regex": "a+t2sCxpOD3XQC1WZGcT+nnwRxWuwRQCU83Qld+ExrQZs8XpaDhxSV0Tc9wkC7EAdGiG0FCkSeUrlxPAMGqeAA==",
+          "group_index": "fyLs93u0mMq1AhJcdwfrooeO+EHCMAdD3zk8AW/SgtE=",
+          "save_as": "THYac6eks0AORSdVG1wMDV8gVHAXablNySMWXqSH+Ms=",
+          "multiple": "gg9SIwhiEtmwHdj+NseUoTC5PmIvzf9HIKd/Yyc7vYk="
         },
         {
-          "action": "request_js",
-          "url": "{{djr_cn}}",
-          "force_js": true,
-          "timeout": 10
+          "action": "b4RWm7NYJSDHm/tceLF8rtloXVy3/cIImZ22J4ujGB8=",
+          "url": "3YOtQVKNFav59MgbCZSKTDwY7qCh0LI7xMv+LhhKQoI=",
+          "force_js": "u6TXwAlC4xitwmzJbVUT56ISXXbJszDdHujlyQAEDlw=",
+          "timeout": "//7X+F7rYPRKEIfYq3tubu0yY/fWRmy9JSs7mWopQog="
         },
         {
-          "action": "select",
-          "selector": ".list a",
-          "attribute": "href",
-          "multiple": true,
-          "save_as": "domain_list"
+          "action": "DD61nNkFmu4oeY0SHTZPp+xVTfKbXneLMJqst9V6Du4=",
+          "selector": "wyrhcW3GmoCatYaFcIPqwsuHwX65CN0qrcHh4zN2XsA=",
+          "attribute": "vpYy2wTdcr9ZVQ43ekV+uPs+leIiU9s0VjVtAKl3S1I=",
+          "multiple": "QjotLKcnRrWDAKidI5hNoU5JpklUgs//xC3Laos3OqE=",
+          "save_as": "H/1+M5JHYMAm+682nQ+a9SRBL7yMPdenwbRIw2zqyNQ="
         }
       ],
       "result": {
         "domains": [
-          "https://djav18.net",
-          "{{domain_list}}"
+          "wI0rVZ3YiXMKf4e5pUtDTFRlspGVgGp2EY4Wk9jfwU2n8RnIoDDBzOrRHW8lcSdn",
+          "bsgl3pLmymcfs70mGjpqyLLZMKti0Df3a69f66E08Xs="
         ],
-        "wd_url": "/search/index/word/<*>"
+        "wd_url": "WTzIuYJz5KQZBFc9dNT8Fq4u0pZRWYH6XWPSUHMZyF9z0U6mbVO/+OkGMOLmOxJP"
       },
       "logic": {
         "platform_names": [
-          "东京热AV"
+          "8NZw3qoLlnb2pbUbgNEbspsTZMSEv0IzmMOHoO4DTa0="
         ],
         "invalid": [
           {
-            "type": "html",
-            "selector": ".inactive-color.fs-2.mb-0",
-            "match": "0 部影片",
-            "method": "contains"
+            "type": "IC1giPtpwe2FEY6+v1MlWRX7RZqX6Fm7rk3JOd02rI0=",
+            "selector": "fSW2c8gNt5i1XKX6UP/kGM0xBWSWaKN0o94jLq5grvLbTzLzdls40sHjz8GoQUst",
+            "match": "5qnaTe/zpFvMYqsXaUVRPyhNRoPRRu/46Oxi8F5UZ50=",
+            "method": "FOp75DR07bGT16CdbzjI+36bCQWmrPz3HO4hPmbpMZE="
           }
         ],
         "valid": [
           {
-            "type": "html",
-            "selector": ".detail h6",
-            "match": "{{keyword}}",
-            "method": "contains"
+            "type": "RAvwELpEgq1wWsgCJPV4JDmFdNAblGe0ttL8/jW5uXY=",
+            "selector": "cahEVzAcO32vveuhItjM9rTlPk4P0gXQReXRSQJQMUI=",
+            "match": "EySHSTxslZ1CiCEUrRNlxkYQ3XEqfN32Bl3OIzUr0KI=",
+            "method": "HMJC+5UbeMy/+GqYrEZwtVDupn58+aknXT5e4dKttTk="
           }
         ]
       }

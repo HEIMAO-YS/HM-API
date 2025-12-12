@@ -1,62 +1,62 @@
 {
-  "name": "91JAV最新",
-  "base_url": "https://gitlab.com/91JAV1/dz/-/raw/main/readme.md",
+  "name": "i28AMdt5erQPIsDwaCNH7NLIQvEyMJTPz5L6DY5BoF4=",
+  "base_url": "yT6pPlJTHYjQJEZEurcRoqHvBUD9PHYLcq1XrrfJvqBU7tluXFtV2SDkPAZTDYtuWQ8AX37oWzRiFdsSwCF3IY2MgbinYt/0Y//naB2r2Eo=",
   "action_data": {
     "video_url": {
       "steps": [
         {
-          "action": "request_js",
-          "url": "{{base_url}}",
-          "priority_scraper": true,
-          "max_retries": 2,
-          "timeout": 15
+          "action": "g725eJ7KsAOWWShh+Wlmhl/w6pJSZHu7R60KJcZg6zE=",
+          "url": "x6v9a+VqtaPUlgVH6Sbnd26g+y02coUsUBVPirV6MCI=",
+          "priority_scraper": "ZZ2OFLw783nJUKKtGmVv5GSrG//yhnsTHx/UQyIS88c=",
+          "max_retries": "D+ZRntaoXwJ8W0kPwMKDu1A7Yi7tDMeLvYDmlczoceQ=",
+          "timeout": "Q7K+JxfIuR1dhYqMfbrNKyLNf36sFYd2zR5+oZIbR3c="
         },
         {
-          "action": "parse_text",
-          "content_type": "markdown",
-          "regex": "91JAV 国内最新网址\\s+(https?://[^\\s]+)",
-          "group_index": 1,
-          "save_as": "real_domain",
-          "multiple": false
+          "action": "8U6TsbbY7VPgL7y1f31DM5DEm0EKWxDMUaWF4R9V9JA=",
+          "content_type": "sUHEKkcrqLmdpSpfONLHVimAJ5SMGhzjYdVLDegWKhU=",
+          "regex": "AEAKyq+ioayVpFGqpvLUIscJ21r3L4MEe3FgnRqj92fT+VsvrnDNkjIh29pR3ryV111tTjBnlFkK5jNrZpmNNA==",
+          "group_index": "gQwOl6KzBocF6aeQbPFoknrtD2ipsdV6nIeoUhdq4mg=",
+          "save_as": "4uxgGpmI+FJ4NzPRW7yImssLHgnRaHi02ZfaNUcpnvQ=",
+          "multiple": "UmKMGuDNG6m0Hqy2CaXl942Tt2fVGHoaFDCE0QLWCB4="
         },
         {
-          "action": "request_js",
-          "url": "{{real_domain}}",
-          "priority_scraper": true,
-          "max_retries": 3,
-          "timeout": 30,
-          "force_js": true
+          "action": "ymMS6H0gB6qJfwbdKxFWDBiGSAxkn4Zq2TsbNzprF58=",
+          "url": "1MS+wVXLCJiyEvhuTI65HeLzh972ETybz5Eg7M9/LYs=",
+          "priority_scraper": "W0Gu5mXrspxShOyZ4uswuLWCBqw3MMI9OysHDi71jso=",
+          "max_retries": "6w9NyZaYiDmkcRop5f7af8/Y6apR0gfIhlMNVYOwQCE=",
+          "timeout": "irfdxTAGHiN95mhZZXM83WAo61Zb+DPrjbEqd9jFtNc=",
+          "force_js": "DAA/xDFYpGmuV/pYb+kA0XZ8LdwG4UTuFXB4xfsi0Oo="
         },
         {
-          "action": "select",
-          "selector": ".list a",
-          "attribute": "href",
-          "multiple": true,
-          "save_as": "domain_list"
+          "action": "lG+P6hf+3o0lmJ8Za3r2ffq8Q6TyCTjTp3g9Am361lM=",
+          "selector": "4wxgp1FUghxtHQgYBslLqO2qAS2Uy4zJe1Kx0Rj7A7c=",
+          "attribute": "U9kryQjvdS+oUdAQ6A2ady/XyOmeU1ePa2veUKYU3lg=",
+          "multiple": "R23XT52CT6QJzoRHYul7LnVKNKOEa9bOvhGl7+3Iwo4=",
+          "save_as": "AfdB5J10S5/Zo9DtUgpyYKDYQYsB2Heaw+CjVkeYRd4="
         }
       ],
       "result": {
-        "domains": "{{domain_list}}",
-        "wd_url": "/cn/search/<*>"
+        "domains": "6yQrUtxo2mzFQMxpXB7Ot7OAHHGA4TQvUoy5whO9eHI=",
+        "wd_url": "Ak2bTFEPuo9+311YJfSnM6iJGgCB8FGVmjvG7C9KXOk="
       },
       "logic": {
         "platform_names": [
-          "91JAV"
+          "3LLa6BqndRUXgGvhrBzoMPpc2T/6aXXYm2xcuOIZcGk="
         ],
         "invalid": [
           {
-            "type": "html",
-            "selector": ".title-box .inactive-color",
-            "match": "0 部影片",
-            "method": "contains"
+            "type": "K5x72WQ+apoEbt/jeqHed30gdseuWTROT4M+6MFI158=",
+            "selector": "ba5GmwMc6e+DTKxiOUzeaZUNNOTADyNrhpMWvoS4BvsWGdav7NkIcdE+z0uUrVV5",
+            "match": "JR3IpsRTpTYuOIq/5PVVYAs0iqhIIv+LZPXUAVaDi5Y=",
+            "method": "av4vc4ZWjcTrt1nF0oCco8BuEy6eFTnoa7aIwR87oNE="
           }
         ],
         "valid": [
           {
-            "type": "html",
-            "selector": ".video-img-box .title a, .video-img-box .img-box a",
-            "match": "{{keyword}}",
-            "method": "contains"
+            "type": "PV6q/Twwx08faBcgW3Gp3GnlgfyOdOINti07dqpZtgM=",
+            "selector": "pDf1ZwUmz+lqvwR4LsU0SBf/Y9SZjVfml4nogf8RFPhTHm9O8JTWG0PYTMHhsCmsGBXswoYankQ/6nuWW/LVL0BQXb8TPBx9d0NSP6Zlplg=",
+            "match": "FyDNH2lQMaQ3qUGKaxbfxqp4KbmQvWgibyIZqtnNqXw=",
+            "method": "kYSfAnOqHy+qdg29BN5hMDaDmzNro+J+rQ88HwNiDkw="
           }
         ]
       }

@@ -1,40 +1,40 @@
 {
-  "name": "[无码]NICE.AV",
-  "base_url": "https://heimao.nv06.cc",
+  "name": "I+ayHXzY4eUhvFHX963u7fPYX9UMIpwoPOs8/2bAFY4=",
+  "base_url": "j2bdsPSKDtLVRcbQq2kxGaLXctryL4nefZ8L34RdYK3kqZtQzabdiqzf75h9ILp9",
   "action_data": {
     "video_url": {
       "steps": [
         {
-          "action": "request_redirect",
-          "url": "{{base_url}}",
-          "priority_scraper": true,
-          "use_js": true,
-          "timeout": 15
+          "action": "CbP9qg05uJR0rejzTTw5FBprT2dx4Ddq12OXqAiygshqtdhfy7H+GGknlyeNoZx7",
+          "url": "vh/mq1YXREQoxgSPXZkrALR6d2Q2mWbrvRj2cc5njO8=",
+          "priority_scraper": "D7eYWeRq8O1eGM7yAakH5nqMoktU9NSBr9ndhd3Lfuw=",
+          "use_js": "mEYlAm0V2HqjXy95xC0sKw63ZsTcga+6uqd5FgAZZcM=",
+          "timeout": "KUhzwAje84fCNnTvxi9jBkklERyumdLyB+nIxgVyMFU="
         }
       ],
       "result": {
-        "domains": "{{real_domain}}",
-        "wd_url": "/play/yjs/<*>-uncensored-leak.html?ref=HEIMAO"
+        "domains": "vxN5m9ubp4XFQbV+MzJ18Wpq650No30cPlqGIAg0yfc=",
+        "wd_url": "RDg5yILwk4B5mQoMdX4Rwrs1KJACRmATQgvjrv/zf0IHEzMElG7hK6sUHrwJd2pe/tMJsnQEKB8oDpGbkM/MIg=="
       },
       "logic": {
         "platform_names": [
-          "[无码]NICE.AV"
+          "itVDkTQyhfzA1DUl1icc+/iUaTUooHLIHvo4+XinppI="
         ],
         "invalid": [
           {
-            "type": "html",
-            "selector": ".playtit",
-            "match": "{{keyword}}",
-            "method": "contains",
-            "invalid_on_not_found": true
+            "type": "SvD4vILw2aYGCHM0VH8HJp6T34VyrtISW+VpyPLjUSU=",
+            "selector": "SvIdFvB20REe0hcYgk+Zb9uwTxPotO/wvKzR0iUWxZY=",
+            "match": "NZzX5HJU4yTgkWesU9VyIehYX6JLVQNdBm0YRCy/edc=",
+            "method": "/l9blHJuUGrZ/+RBm3my2Qc0wlwf27uQXsPJqZ5Kqk8=",
+            "invalid_on_not_found": "oZfEh2XWaJQ2h0DJ/NwN32mua3wWGW/bztb8HSpY8dY="
           }
         ],
         "valid": [
           {
-            "type": "html",
-            "selector": ".playtit",
-            "match": "{{keyword}}",
-            "method": "contains"
+            "type": "SC8xIQhgu5uvgPJKh7ez1EfKp8Zu6lhsVgrD5p+wuUE=",
+            "selector": "n3Z4TDqW48RMBlmpCOsucyjcy2qorVc5FIuVOjB/iR0=",
+            "match": "b5Uv2Z274h5952aZjjqs+o49M9IfKi0YL4OVsB7pEKQ=",
+            "method": "ObS336docma+3/ZotH7IpYDIvIfl9kQUd22fVvy96bw="
           }
         ]
       }

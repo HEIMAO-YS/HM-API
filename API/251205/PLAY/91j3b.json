@@ -1,47 +1,47 @@
 {
-  "name": "91JAV备用",
-  "base_url": "https://gitlab.com/91JAV1/dz/-/raw/main/readme.md",
+  "name": "5jwuedqnWLgem8G8ftFkwvKw1z4KfV/HzSbVeRxL114=",
+  "base_url": "XSPtVgapNdyVZg7DG6fKnVc0/em2zgEOJMInexe4qIwJmKNW61vFt7lslYhtR/jeRSBCn9akWrtxL9mHXZwYzPQA6dFeElMdSqmkKUH8JW4=",
   "action_data": {
     "video_url": {
       "steps": [
         {
-          "action": "request_js",
-          "url": "{{base_url}}",
-          "priority_scraper": true,
-          "max_retries": 2,
-          "timeout": 15
+          "action": "bC5Qo4DALOPChgSlntu9Y5cOBmhe8hKD+l4ZBSfErrQ=",
+          "url": "VLZIehpmKown8oatPTDsOqWl8m2A6X7mDtgQUa3tWwQ=",
+          "priority_scraper": "PYQrfXuyu8ruCd7kRsWveXb0inNxv+n9ZZYus6NgL3s=",
+          "max_retries": "BAXekf9fKEI7a+qPBGUN6/hmJ/X7B23qeXh2oxCq5JE=",
+          "timeout": "VJdyjKiWgpkP0YgSlQtKBeS7GcMFNx877T+cv3DX/tE="
         },
         {
-          "action": "parse_text",
-          "content_type": "markdown",
-          "regex": "91JAV 国内备用地址：\\s*(https?://[^\\s]+)",
-          "group_index": 1,
-          "save_as": "real_domain",
-          "multiple": false
+          "action": "rwp/2QBMQNf/i5RZpeMRC6W7P//YAsS+p27pEonR9QI=",
+          "content_type": "V4OaT++QvDApBKmBhtV+NuAR5VyEuQDDo50nE8aaWWQ=",
+          "regex": "fvzbzS3g5/CjqcIDF5DuexBvJWfgt2v8UIn+XIxYl1cEW0Fh4AynFshPKO8fOylGw09TygbiE8oxxizAs/E0aQ==",
+          "group_index": "3w1QJkQDgsVPXKFgKqJiCqkfsbG2VwCFPUSKUZDjANg=",
+          "save_as": "5jBvCCogQPFKAoTdOFwisVQ+MxuxuGiKasZEzkl6rCc=",
+          "multiple": "TjwAugxLF5oxSsaWW7R+wCKeKjIm8rxDydFJxxXrifw="
         }
       ],
       "result": {
-        "domains": "{{real_domain}}",
-        "wd_url": "/cn/search/<*>"
+        "domains": "KePTyPCffK4JVio0lmQYWHEU88sefGo1wMcrF5QvsBU=",
+        "wd_url": "xqtu0cUfEybMJiSK1fhHk6CTe4pq6JitRJFqvrzRDyI="
       },
       "logic": {
         "platform_names": [
-          "91JAV"
+          "wHOOkiI1Fkq+UFD/kgYbf+l7rdRJEJowlD2p1npiV5o="
         ],
         "invalid": [
           {
-            "type": "html",
-            "selector": ".title-box .inactive-color",
-            "match": "0 部影片",
-            "method": "contains"
+            "type": "gvIACTNBfnz0EBvSTOc0jOmmP+z2ncRinTPMi0D9Xdw=",
+            "selector": "uwp57iWsdLsDK3myigQsRrIja4lDgfnVDNSTqsQRYQfb+z2Lo4muM/CGdXRAdYa+",
+            "match": "jaoLOv9JTVW1j3qIGEOT1MLGWhyI0FnWXCZmwOvYMsg=",
+            "method": "qVLJIl4Ttr+hL7G6COzcaqnxpnXBKsWLffrnUwo0zNA="
           }
         ],
         "valid": [
           {
-            "type": "html",
-            "selector": ".video-img-box .title a, .video-img-box .img-box a",
-            "match": "{{keyword}}",
-            "method": "contains"
+            "type": "yIU2BbEUe0NTpDsHvYdgG0wPhwoo3OENAkEHnt4oz1g=",
+            "selector": "om4rsT/vBkPgsMukT8VTFuDs779w/7Zqh6fX5Aad/3aO1IvBDy1B+D/2kgo4v+kGBXpsvpsIyzPF77saCLGIiPYL6bC/JcfYxDjunELyUlg=",
+            "match": "6NigeruZREfLSJhA9G4BsMEDaf6C+2RbJsiU8qPFHZI=",
+            "method": "KVsp0wNRVooECVbnxiiX7Fkq++REeq8iofBBcICdNMU="
           }
         ]
       }

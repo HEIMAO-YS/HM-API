@@ -1,49 +1,49 @@
 {
-  "name": "mmss.pro",
-  "base_url": "https://chisha.tssuy.cn/fby.php",
+  "name": "dhhiDZ6K3IFgpgMx6XAAJUvhvzw985Gv91E0CQ/dd70=",
+  "base_url": "Qd0rK386363QCqoa6q6GqMlMRnlslJqDPiJMEVbJHhM/Iv2FEW5zSwkugsI323yc",
   "action_data": {
     "video_url": {
       "steps": [
         {
-          "action": "request_js",
-          "url": "{{base_url}}",
-          "priority_scraper": true,
-          "max_retries": 2,
-          "timeout": 15
+          "action": "cYTPOjuM0VV1TVRfZQTe3Rh2eMFvbc98DDuaaDJYiSY=",
+          "url": "PqyRbmVEtEl1LVOZdxh/g82d4i3OOHFdnrmPmo8tBqA=",
+          "priority_scraper": "P4LmT3lsm2eBslTlfg0SWnmVspOIAIb62/of76qc2hs=",
+          "max_retries": "wl0rXZJMinz5FxvsXSeaUYdkhy+M1BEceE2lx3RjnNQ=",
+          "timeout": "eKdf7VmTc9thQ/h1R34CA1VDYzrA7q77FPrt/XLIV9Y="
         },
         {
-          "action": "parse_json",
-          "save_as": "domain_list"
+          "action": "/sxeTphkhoOl3V2174RvBAbWP4jqxNDdl9sDjc/6vCM=",
+          "save_as": "CoaYKPAyAC86fAlbUoV7wkRJugWdq9YN02W7ZX541Lo="
         }
       ],
       "result": {
-        "domains": "{{domain_list}}",
-        "wd_url": "/index.php/vod/search.html?wd=<*>"
+        "domains": "8LQHm2e8SmRq3vfSdzto7a8htE2APd6k/mJ9ICtcxAo=",
+        "wd_url": "IuY13x3HF+Lezy2v65wz0b+LmCsj05cNspLuw9i5D2QM8u5bc6kFoph9KiOIljJJo7yUk8bS/nm8AeY5xEoZRw=="
       },
       "logic": {
         "platform_names": [
-          "mmss.pro"
+          "rumxVpDsPE0HR+FcI7wcRGBg1A3g0ZqHEo1kaDzg5V0="
         ],
         "invalid": [
           {
-            "type": "html",
-            "selector": ".pagination .wrap h1",
-            "match": "没有找到匹配数据",
-            "method": "contains"
+            "type": "7dbIzJPEAghrZ3buxtV8ircIgHN6IRjkgk3ztzFEuC0=",
+            "selector": "TqufS7cqbfLIPh9ROTMR0E8lonsrXYEr/mKf37xLs+Tigp9swVDHpPz9BMqHDfVN",
+            "match": "/y1288RnBTcvEu5B//cHP9CsJOJmH37sfoyDcBoP6nHfNfKCMz12CZZSdQuhZUxk",
+            "method": "XSSXo9Vw7N9FsOFwPsKJ/eBhkJBvmtJEQ4UtgHCA45M="
           },
           {
-            "type": "html",
-            "selector": ".main-container .cat_pos_l .mac_total",
-            "match": "0",
-            "method": "exact"
+            "type": "f7NYfVSJGmocdO7jSZBDudwvDSXv/gjJeMMw4TtWtNE=",
+            "selector": "XhKY4H72xVQwMIJFvy7VBQMO4nwpxvma3SME6OZSEwCKjjYTBcQnZaqvlIK0G3RuhY21q+eYkRJonh62LwXDaA==",
+            "match": "31jK+3hXwbfLk5BEQQQxOFshQUD2ORLSK33jLHiIrEc=",
+            "method": "zXv5xLc4U7sD89bKHoWI7HwdhRkR0uOkkwZKWdiW950="
           }
         ],
         "valid": [
           {
-            "type": "html",
-            "selector": ".box.movie_list .content-item a",
-            "match": "{{keyword}}",
-            "method": "contains"
+            "type": "o5bEAw7Foys2898puOrJRB7TF3qNuHh1wNiYpkSEs+Q=",
+            "selector": "/Frza+2hMVAJsz0Ssn18yHVyuPnHCnrTrcxf4uugohTe/wIX9O+GmY6zsjCNdbfU",
+            "match": "F7oJBbsxQBGODCz3nU3S5k3ntB635QXx62EW6MfLiYU=",
+            "method": "1kCCzgdRcw3fAcAP1SOyGehBMv3jupQ8tXeQlPS/XpM="
           }
         ]
       }

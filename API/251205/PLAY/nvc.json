@@ -1,40 +1,40 @@
 {
-  "name": "[有码]NICE.AV",
-  "base_url": "https://heimao.nv06.cc",
+  "name": "aKgH0UPHPvto4b3qDT+Kffz62mu/9+aEFTBP2RGdThI=",
+  "base_url": "M6krcHsBPiAgrpuUi6D9bacFziQZWUbKlEY5B+sZ2YYxU0qUZOcFHAaNuKRef8n9",
   "action_data": {
     "video_url": {
       "steps": [
         {
-          "action": "request_redirect",
-          "url": "{{base_url}}",
-          "priority_scraper": true,
-          "use_js": true,
-          "timeout": 15
+          "action": "ppCcBKmQRZRgRu29vcNxgeuxag49nzs0LZa7e9VwLu4tBUFKeUC6IhIQ8jYKD5kI",
+          "url": "Xqq8UAPQW6XbZy2YGSqr5i/MqKPemPiNhAAtLrBHnSw=",
+          "priority_scraper": "WbBjwtVb1h9LfdyhLRTeo8FZ3c/4w9b/lI4+7WDVjHU=",
+          "use_js": "guEpS7Blpsy/MMXm5aupKc2ZlSIhO6KfxT4bsIaIBvQ=",
+          "timeout": "ekySvFpCwQxybAFpJVR95GDugHzsIU4cJCS0lrDT/6k="
         }
       ],
       "result": {
-        "domains": "{{real_domain}}",
-        "wd_url": "/play/yjs/<*>.html?ref=HEIMAO"
+        "domains": "agJMPizLRbOao+EMEwum/oPXxLBVQtek+WcULx/ath0=",
+        "wd_url": "zqE2VPnBhlMH8mKTtgs9V1269FBJnFqlJ2o9/TD2Pfqb4uXvp0yJOJSJTRU4gILb"
       },
       "logic": {
         "platform_names": [
-          "[有码]NICE.AV"
+          "HXJ/WzgOv6IReiAMk+zzVGJXy+9u/Sh8oGGMGn4liV8="
         ],
         "invalid": [
           {
-            "type": "html",
-            "selector": ".playtit",
-            "match": "{{keyword}}",
-            "method": "contains",
-            "invalid_on_not_found": true
+            "type": "M7qAHVbxhJUvWiZykm3FJvqfeEOAZkfbBSIrubS1/y0=",
+            "selector": "o7epubPdn33T8tRVJd/0Z/SRaQQPYWbcD2t3NnIyneI=",
+            "match": "BSpzizfY492p9r2MrCanNkYRzQuyFWCcz9xPaG7nKSM=",
+            "method": "Lc/1XF/zir/Mc+GMZL+eyUCPK+kH4z6OXeStXSebm4E=",
+            "invalid_on_not_found": "C+Xj2oTC1uc2M868NkOcOKkEpBfaiu/xMnlDvAcg8BM="
           }
         ],
         "valid": [
           {
-            "type": "html",
-            "selector": ".playtit",
-            "match": "{{keyword}}",
-            "method": "contains"
+            "type": "MEunon2yiFzB0LwF7FaPL/8m1343BFQOT4ZpZ56FzWs=",
+            "selector": "l5NL/6U1gXREa5VRdgnI5vaw3VdAzjmxOz70v/msVDc=",
+            "match": "4cPV/WSEj6x9biECAs5fI6dpq/7SvoLC17CO7uI+wV0=",
+            "method": "YKBjWq/R92Rs7lMGuUezr0/iTw80ogiw5e0P11l84TY="
           }
         ]
       }
