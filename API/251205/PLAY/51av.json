@@ -1,81 +1,81 @@
 {
-  "name": "HOrzpKhtrpPyjMngvgPB+QkZfPovfxJ8I97H6aXQ7Jw=",
-  "base_url": "+MQ8OWKzLbdVLiC94DuN9/v3PRxAlZcY9LcW5Rh6cpnlnEQGD1BYX4tWArP47cXDYRBgseluY8U7qJe8Z+jLPuJ3ZYHTI2TvH+Gf8qzGGCgHcr9PmRDDLygPfISdeiXf",
+  "name": "51AV",
+  "base_url": "https://gitlab.com/51avwang-group/51av/-/raw/main/README.md?ref_type=heads",
   "action_data": {
     "video_url": {
-      "enable_js_redirect": "cT+LM0UYgqqy5nqvxWt4LEbHAdZ7APPSPrkSDT7Cx1g=",
+      "enable_js_redirect": false,
       "steps": [
         {
-          "action": "n1zYGJEZSdgQ3GR1UrcuCEqgV6dUF7Q+IaYQUFLbnF8=",
-          "url": "xjxFX0VJELMBdRT2EEbIwiKNjJ73T5MI6jJxXgchVkY=",
-          "max_retries": "KEfiLCQaI9amz5h0CerJeyg/I7DfTh43k+su46CxClM=",
-          "timeout": "8QCGLM9yKF+kWlv508JvM++rVboN/recYE+LNrQF/Vc="
+          "action": "request_js",
+          "url": "{{base_url}}",
+          "max_retries": 1,
+          "timeout": 15
         },
         {
-          "action": "UBiMl8fKUicoOk4+TCcpxNoXR0n89vMVDpI/LGWpW20=",
-          "content_type": "lNoBJ0OqI/RkOEM446C96N/8uI1Q+AIZUwYMFqSLJ58=",
-          "regex": "OuH62ANvNCuyOaLIxEAJNP3jD61PcIbO0PPt8xCan1fzlOl2TSTT0ujYKpfReNXA1G7e72RWG9Veh5Z4V+nzLQ==",
-          "group_index": "u2w4pps9nhzDdzLwhCut5+KpfnYtQDjAVs+AUScQjSI=",
-          "save_as": "94IP+KglAveyqxqo8kRjpu6kDRhrGMAfEABN7Sa0PeE=",
-          "multiple": "aik0hyvQMBFel7/uf0/h5rj8xcuyFrVofjXxQqigcGw="
+          "action": "parse_text",
+          "content_type": "markdown",
+          "regex": "国内最新地址：\\s*(https?://[^\\s]+)",
+          "group_index": 1,
+          "save_as": "51av_cn",
+          "multiple": false
         },
         {
-          "action": "5st7MhUT3vOwHNcFSOuFIE1WUT8sxRgkd2G41Ev+5kc=",
-          "url": "zwxkM/OQfB80U+1DKSKyeLpCrCgtsWhL5DRC1ODuLXQ=",
-          "force_js": "UZ4jRcD6F5aqskvjwheC1jVVuKXF/ockw0dpx8LvIZY=",
-          "timeout": "bVSzPG+QS8NPPzUUxIbpobxGCa1Gv8op9UDbrwsp8Kg="
+          "action": "request_js",
+          "url": "{{51av_cn}}",
+          "force_js": true,
+          "timeout": 10
         },
         {
-          "action": "Q8/hboTehwegem5q9vWyZwd/jj2NrtQOdPzJz2tbSas=",
-          "selector": "9Yz6abCSjJoe1X9+YYcj878Oq5RX5Om5CEpcPv/AH7w=",
-          "attribute": "Enfv4jMKKVMoOMU4cywtH0Y0hMiMvjopQQIm4l4kGDE=",
-          "multiple": "spFETnIaD/YkUqmZqTgLcFdsUrirNquxSA7Ib42t6fI=",
-          "save_as": "LXh5LON092VFAriYP0Tjpo3XIcfT9eq6630zSSSf1Bo="
+          "action": "select",
+          "selector": ".list a",
+          "attribute": "href",
+          "multiple": true,
+          "save_as": "domain_list"
         }
       ],
       "result": {
         "domains": [
-          "AUdI1n3cLZainPLf0vvXoCqwWfLZKA3Of/u9rzcqbH6bisLt0ZpCjSSXWxJnj5PS",
-          "5dW9IIRp6T3PeTHIbm4p3ETXvEYmmcA568RWrmx79MA="
+          "https://51avhd.com",
+          "{{domain_list}}"
         ],
-        "wd_url": "Kyy/SZLBEsU82OLxqLisLNf3mookrOe3830opRRWr2U="
+        "wd_url": "/videos/<*>/"
       },
       "logic": {
         "platform_names": [
-          "u5t9ziEbmN1oxm+f6laZwfGOpcAttGU9Amccl4BkRes="
+          "51AV"
         ],
         "invalid": [
           {
-            "type": "iZTTbW16RffpQKHgX94Hb1F9xOLg048zDTf12f1BENk=",
-            "selector": "Pn3Ddy1XxxQP1BkscK84xCAhx6VTPNUc8g/jcuqVLxg=",
-            "match": "fsxdoBm43r2abkpF7nN1mh7J2CHo7VjNzqqje73yrgL8dLo80lR+PffWqrJJiU63",
-            "method": "pBtP/6nmeSoWFzU2RxXGGaDzsqFKlDSqoDvp1sGAXZk="
+            "type": "html",
+            "selector": "title",
+            "match": "404 页面不存在 - 51av",
+            "method": "contains"
           },
           {
-            "type": "OHIhwouohuZ90uiQe8Onlt1F1EXUFlfMmU2M5qhcPEU=",
-            "selector": "f9GDLkMlGP08a8XzJqkosfTOR7HAVFgqGs91461S0wM=",
-            "match": "PwXrih4yt/KnoBjEhOoZtw/So8T17qKNdKEDD1A82DgrjrzsFlMXcD+hWQnoP4X0",
-            "method": "MLXu0p5gbTncTtPH1PmMLb/J0Xjz6kp2pRi+EM1/WNM="
+            "type": "html",
+            "selector": ".text",
+            "match": "您访问的页面不存在",
+            "method": "contains"
           },
           {
-            "type": "pM5wftA3YE2A4Sd7Ylhq1QRybm4hogkzvmnDA3eshq8=",
-            "selector": "K1+DlCOmS4ppKwghQafRHr0HRwN4ckzIysVys1s26vA=",
-            "match": "tr4FBWpczHzDgvSJm9OCfGSk5YEJaIah8Go93XqFoVg=",
-            "method": "HqYLH0Z9xJpaRC29x4Dz3fGj0RDoaJ1Q0FyRvkboHp8="
+            "type": "html",
+            "selector": ".back-home-btn",
+            "match": "返回主页",
+            "method": "contains"
           }
         ],
         "valid": [
           {
-            "type": "L4HONNvd4e9xtI3rZ+U/kEC+2E7SUyjPHEhoPM79kF4=",
-            "selector": "rI9BixUn67tb8q+i3otElYI8UP1mQq7Wne2d6QGCnQk=",
-            "match": "7JDttVsqtNM0iS5OQH7TubNCUAUl/pDj+jt5NV93hww=",
-            "method": "d9nQ+xc6WScEj4BZxR+tu+ayPyKtSFgSJU+YPaMS2GQ="
+            "type": "html",
+            "selector": "detail-text",
+            "match": "{{keyword}}",
+            "method": "contains"
           },
           {
-            "type": "M2Pc+Ku/cVvS5njYp2OJ0JT3zykByu2t76p2ZnEVGxg=",
-            "selector": "Whzi1ZmIuCk+uRuAC7rmN5WXJNJqizEFebcn4J1x8lo=",
-            "match": "E5Xoq36GTlcj8b9OnPu8msaSKaWLb5fcktLTbyYmu9A=",
-            "method": "mYMCCSbSsZOp4fnt7EORrI1oBw9MIZwJuTk5FFh+ciI="
+            "type": "html",
+            "selector": ".font-medium",
+            "match": "{{keyword}}",
+            "method": "contains"
           }
         ]
       }

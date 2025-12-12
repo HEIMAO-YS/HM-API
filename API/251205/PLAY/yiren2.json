@@ -1,112 +1,112 @@
 {
-  "name": "NcM8R7v644H3TC1+2DNBb18+PbGW16INS4MPtpABSdo=",
-  "base_url": "4ikiT9fw3TKSSsCwn6AiVpCfuTM/fILMlt9vsL5ohc2ACdUwKnFyu9TX59dx33Rz",
+  "name": "伊人多线2",
+  "base_url": "https://dizhi.yiren2.life",
   "action_data": {
     "video_url": {
       "steps": [
         {
-          "action": "UVaZjEbPFEOEtuEdAX1mIc/kcCRm13GLlbguV/YK5wY=",
-          "url": "kss6vGue0kUIlIXnpTPO5TZV8ed438hzAa3g099C4zk=",
-          "priority_scraper": "oc0JiZc0nmYfm/9POSouH9mAb2oc1Klo0MeiInw1JhM=",
-          "timeout": "sRsKgVlNwMqWM4G5uspJkF5yJNjTdnuhSKEaRj8m89o="
+          "action": "request",
+          "url": "{{base_url}}",
+          "priority_scraper": true,
+          "timeout": 10
         },
         {
-          "action": "dbNZ4N3T95Zca1cWYsoaXlt+65II95elNi/zXgfY2fY=",
-          "selector": "/LB57ZE8J0NjBSTxDDF6IuFExne8ozufQ3bIFW03nEw=",
-          "attribute": "G/qDH1QUtRyPXLCG1B4Jd/h7IYL+UuMk1Q/KRXPid50=",
-          "multiple": "9JTMaeqA4gv4WQ2EN2MXNstAyVIzgn3CgRW4Gug/gO0=",
-          "save_as": "Tcfv/L4t7mBhyeyKiuvlvwSyMOBMEd9An2GU+iqYqVY="
+          "action": "select",
+          "selector": ".enter-link a",
+          "attribute": "href",
+          "multiple": false,
+          "save_as": "yiren1"
         },
         {
-          "action": "rvp8VPG87/bGNhLa2TNund6m9ocYqAcWL3FFWuLDkWA=",
-          "selector": "7KJQtnwAizzt7kpwYHibgNxufYfvuS4fwMnCjYfXxP7PIUCNoHesifi7nv/yK2vI",
-          "attribute": "i8vq+X+D4GqUZQhBNmk+/OB/7EnwmRxSNEbzbKt3GMU=",
-          "multiple": "5S+tJyw1g2JgHeU/MglEsFdzgywGe6tWGxr5ftNYq44=",
-          "save_as": "K8JA3yY2IKyL9/gWJcvmkbaMe071DxeuPpTjgmEy+Qo="
+          "action": "select",
+          "selector": ".enter-link .c_blue .c_blue a",
+          "attribute": "href",
+          "multiple": false,
+          "save_as": "yiren2"
         },
         {
-          "action": "uJj0tsWJEHbfoK4oInTqGTZNVH2aQIkrm6CmdW8jnjM=",
-          "selector": "oyx9Fxf+px2h85EszYuocFmqtQsI35hlAL87AL6/pzgME03KUa29dV0e89DYSW0QFyiCDsRg7jwOK7WrNWHQMw==",
-          "attribute": "m5yeMcISlqlE5N5T0/s9mgRBreB/zCwQIrf+qyP1wxk=",
-          "multiple": "SKb1WQzA4K5Imwbl5lHHjiKHfFUGe5t8fTMni625ngo=",
-          "save_as": "eHL9g0+HrI6ECZtOIJAQbrtXXgKt7wcoO3guh1GezBA="
+          "action": "select",
+          "selector": ".enter-link .c_blue .c_blue .c_blue a",
+          "attribute": "href",
+          "multiple": false,
+          "save_as": "yiren3"
         },
         {
-          "action": "YNGvkfOUO41cMw9UkazGlLPhhMSYr3QS7St21+ph9KA=",
-          "selector": "W4fgkWfxhTc8tmnw+w+yaPyQLnsZuoreQEXouhgoPoRjZn4LdoCjZdjqCy6m/yscxh8u4I18hDJ9hcvgpZ1hZQ==",
-          "attribute": "CHyuAYHNY4NliKJfZ1ABZoA1z+yKFweu6m+r/kXNvbA=",
-          "multiple": "fsYLGRHb5gs+idBijWeVawbfDbxBCb1rvciydPUAc2o=",
-          "save_as": "eFpM0rc+Z+KDhUo5RrxFbEdVhm8YT9dJ4tIiRZZLdxI="
+          "action": "select",
+          "selector": ".enter-link .c_blue .c_blue .c_blue .c_blue a",
+          "attribute": "href",
+          "multiple": false,
+          "save_as": "yiren4"
         },
         {
-          "action": "nsYGPqoUgdJmQcKALeXM2wErNmJxBfwyKHwYzgek8Jg=",
-          "selector": "bguDIKifd58/29qPIzxcJtrzHOxrldXrGQIQNtfsoc3pp+kymI82Ufv3ytd9n4STce9vB+S9IyU/eg9efmf0R/IrQhnGicea5NNO5R+ltck=",
-          "attribute": "dHaC44maSKt451viU9E6nLl1vUWjl+Nzlhh8u6Qcmhw=",
-          "multiple": "06jVdYYFKeG1eC56fFK9MhvgTROXvswPNPLGooMvJM0=",
-          "save_as": "IinAzY/G9OWZiJb92KPNLT9U+Jao3QZ1F9S1ZnmBX14="
+          "action": "select",
+          "selector": ".enter-link .c_blue .c_blue .c_blue .c_blue .c_blue a",
+          "attribute": "href",
+          "multiple": false,
+          "save_as": "yiren5"
         },
         {
-          "action": "UFbSfWCfoQP1mx473eYZjy6XLJFIeQAMpdQxbUgOMo4=",
-          "selector": "x1WLNICcMyX/ZOklNPZaDdq3uvgnwmXAAv0ffxPbn6UCm+6uffblh7VQbZNTl1f2X8nGRk1u0qTcTBHqe+CEUQ==",
-          "attribute": "IL2kJ0kJcfxm7zpbfQEbWiLAu2GGm0eiXZWr/IA2FcU=",
-          "multiple": "sDG5T0WXBpdyG4ytVGtABVOQWTENDat/tUZvauJ7BQk=",
-          "save_as": "crN6G8WWude1gKhqhpvi46Z4pRmTDSLSk5NHKbB7GUk="
+          "action": "select",
+          "selector": "div:nth-child(4) div:nth-child(2) a",
+          "attribute": "href",
+          "multiple": false,
+          "save_as": "yongjiu1"
         },
         {
-          "action": "OGPH4BrPbDyob0LcNJ/tWG/wYh6wr0k8svMlg3veATE=",
-          "selector": "+VdQCOOlwln1w0eniZumSpQjGdwMqZnSaJ0rIz07n3g4jTA08djTQydBrKWjxIfpxM4B4HLTwNZOg92rw2doRg==",
-          "attribute": "X/aMr5gPRyADS9oYk5FvNFfP6yuKdwMF6lHExjC0bv8=",
-          "multiple": "hquYoydWWPwsW47LSUDKN3FPnaNTCLSP0FzGqeLgWpA=",
-          "save_as": "+wY7rN/hUHAVRBE+9csvgUi0uqlxyCkvGFjZCIeiOqM="
+          "action": "select",
+          "selector": "div:nth-child(4) div:nth-child(2) .c_blue a",
+          "attribute": "href",
+          "multiple": false,
+          "save_as": "yongjiu2"
         },
         {
-          "action": "5M0WM/kJLG7Fy/xZSgr2Pxrpfyby4Zq0TMSPzA+T2Xo=",
-          "selector": "DAI0cxMxzQvT+bf63nTLkaOn2N6TWCieBJ6kwZiJNbC1vyxuemDVNMAPT0t1IS6A/TWoQs11yvpxlXYCDCatx7p3k1QJGv2avI64Ov5qfVE=",
-          "attribute": "LO471ThWq6zjQ6kVh5oubuabpJ+tBT2e4pIYsc72gA8=",
-          "multiple": "IEtTfS0VeRDY91jeVpyJUK8cj6azJ/jsv/YF75jAAtg=",
-          "save_as": "HYCSzsFxmLDnkisdJ1e/Fo9FG7QOkE4x2qCMdlnU2Kw="
+          "action": "select",
+          "selector": "div:nth-child(4) div:nth-child(2) .c_blue .c_blue a",
+          "attribute": "href",
+          "multiple": false,
+          "save_as": "yongjiu3"
         },
         {
-          "action": "8+Z1KbL4oEwdTwZQpD3WvP4m+SKhmT5VMwWtWLeBUMk=",
-          "selector": "+vlPQXKH6hqEI/TXTDsxMRNuUnMiCIW1Tb9gtQOSnzbfD591n4tiT/8QUfEZQBN8jw21Rq/wraNBa6d/5iIv6Q31Ei7paF2aBqULZDe3/aE=",
-          "attribute": "LYMwQ5BhptRmkkD5wjAnVoj8wVzSWYBH5JQRF6aErZo=",
-          "multiple": "zkLZvhVXFAdrMMSNLnWkLzJUuQiG3p4+dmydHcQ1qDQ=",
-          "save_as": "qd/jQnvjN6WkMFJYd9+K3QlY+Hlb2xciPrdpJQK4ypw="
+          "action": "select",
+          "selector": "div:nth-child(4) div:nth-child(2) .c_blue .c_blue .c_blue a",
+          "attribute": "href",
+          "multiple": false,
+          "save_as": "yongjiu4"
         }
       ],
       "result": {
         "domains": [
-          "CFSoaiCn3/mCLbaKFyPkExI4YHzwsuV1MorbLZzR5Ao=",
-          "fWieYDgmLjHpaZqZPAtQDdau4UhcOtUwMmnmOcWtwCI=",
-          "RPqgCLyaevb942Nw4gwdDe+SCXaDe4ptI5b7Jxojl3Y=",
-          "FlVsNCKLersz9jKol2+S9UlCqhvtM/oGxIukrntSNII=",
-          "6Q/CbR85UH9+Y/4GZKj7IRSE3vzbo/LXtUzl+0JbhTw=",
-          "cCaJo/4tmu2WjXAXxFKVwjpEb+fqbKLrK9du4j2XLE0=",
-          "jZbjMXPlS4mL46OIxpL9GfDnnKM/3OZ6W8/YcQ6+RYA=",
-          "DAruUgZOZLBoNqtbWLndIrTsDR+NjSDWrBaF6Kjv6uA=",
-          "u0NRhhTR8SBs/hU5zK4PsGB3Z2ZgVvH8vWVf65B0KLw="
+          "{{yiren1}}",
+          "{{yiren2}}",
+          "{{yiren3}}",
+          "{{yiren4}}",
+          "{{yiren5}}",
+          "{{yongjiu1}}",
+          "{{yongjiu2}}",
+          "{{yongjiu3}}",
+          "{{yongjiu4}}"
         ],
-        "wd_url": "mM0XDnaH8+kN4lVV9AxDxfH2PrEz1FTe6kAU5Uh2pmcUosFoC8nwF+gKCMG37RuGEd1QEO3jmHyXDV1I9t3CCQ=="
+        "wd_url": "/index.php/vod/search.html?wd=<*>"
       },
       "logic": {
         "platform_names": [
-          "12VBSmsBWtZf0iwpYVcgoJ0oRy6QPUbrGXUjRicVetc="
+          "伊人多线2"
         ],
         "invalid": [
           {
-            "type": "slm4WSQzKDG9KtfGbwP9m13LklGCDv9ZrUIrBCFJsIE=",
-            "selector": "F8OWWKyTWg+i8vmlgQGZsNGb+VX2CFIqEY0bnqAE+5HHqJdzzMXaSJeNu5QUHiJV",
-            "match": "q/YO4Vbm7PVLHNb6eiWcwWR0rggL/yjnGc2M5z3sGo4=",
-            "method": "XZEAFh8X/T7iJTEZoEyW6Qp61NBqwMQSz8r+6kLxQeE=",
-            "invalid_on_not_found": "YSFMksatA+I7EBhJFTt1dJ3Kpht8qcfXEaiWCVhCSqo="
+            "type": "html",
+            "selector": ".movie-list-1 .box .item a",
+            "match": "{{keyword}}",
+            "method": "contains",
+            "invalid_on_not_found": true
           }
         ],
         "valid": [
           {
-            "type": "qIjDjcZlR9EbmC87fFfuKdwfx71DR0XkWHKLr+4yvbY=",
-            "selector": "IvfufOWMAjFyctJrjg2cx6k+QytxJSGZJfqN6QyB7GlX63V/d8uxOgmgr9RRdog0",
-            "match": "uJ9toB3KJ9AewYju69EYWGFx+DJlmtQoYSJzO+SZueI=",
-            "method": "WQQPl6OoLAuv9L6tCM8ExlGsm17hsJSxz3maoVwN6io="
+            "type": "html",
+            "selector": ".movie-list-1 .box .item a",
+            "match": "{{keyword}}",
+            "method": "contains"
           }
         ]
       }

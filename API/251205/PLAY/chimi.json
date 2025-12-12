@@ -1,65 +1,62 @@
 {
-  "name": "4tBDnoohRThJ+HohWdynRD6hiG8qXzIhNLU4UZ8cXO8=",
-  "base_url": "lztPbVi8rfB/E0JVYushHVW/J6uVo6nLwIstOcLXcOJqTLbB7EUY0SGQF97rN3Y4CqAD3r8OipeEUZCUHDrVuHTKeZ/4cNAXQyx44JHIme0=",
+  "name": "痴迷AV",
+  "base_url": "https://gitlab.com/chimi2025-url/chimi2025/-/raw/main/README.md",
   "action_data": {
     "video_url": {
       "steps": [
         {
-          "action": "/HF/W4RfW/oFKHOneu0kQPgfPfrrNXGniqxo7TEhO7U=",
-          "url": "CcLfze0BeXn06CHEbr/WAjMhMcbTOlHgYWllyvPGj4E=",
-          "priority_scraper": "oXFgeEMpRUWMhBIeaowsZY0YorejHdfO5x87dnu6sVA=",
-          "max_retries": "M2aSn/CQ5YqNmtKHIMLT4O/alNEtHyRL3wUOh9M1Nc0=",
-          "timeout": "eOVqNQOjfE4qI21YK1ANElrqKcoF0eVPtYZwHCcir9g="
+          "action": "request_js",
+          "url": "{{base_url}}",
+          "priority_scraper": true,
+          "max_retries": 2,
+          "timeout": 15
         },
         {
-          "action": "HbeuZBvLK58RdXlA7LQIyWUzGfSombPs4krZk3IG8Zg=",
-          "content_type": "LcR+vac4GYx2RQgL//TziHJoFpL/P68AzBLBO8wujuk=",
-          "regex": "6DuNdeufU7NjyU/2/YIb4YCHSDUVZyCVNZ0DVnltpFn20Klhd9qaBOXvGFP+zH/gXuT7uXG/udq4R/9c66ul82frncjgmbBQ53h5wdD1u9E=",
-          "group_index": "E/nhA3X3LtWpfXqZ+5HH5XRTpkmVJlE8iu2/hIg5tCM=",
-          "save_as": "x+rNYhDyzk5vJoq/2dQNG5q+Udmg8S3JUIBiI/Hq1WY=",
-          "multiple": "o3l4fLopVZ+xEfW1UOTEe5NB/w9RSh48sRkfzkSoHmU="
+          "action": "parse_text",
+          "content_type": "markdown",
+          "regex": "最新地址（无需翻墙）：\\s*(https?://[^\\s]+)",
+          "group_index": 1,
+          "save_as": "domain_list",
+          "multiple": false
         }
       ],
       "result": {
         "domains": [
-          "YlStIlXzQgeR+UiERKPm7SkZ2bDTYALQrOJUS2wV1LYOy1bJN+s4uPIvRAb90IYj",
-          "cqK12xZn7GRPmAlHxSGf/YcpQ240CeuRO6Yts2wYedhtynpRVBsJMQ8sQv+TN5dT",
-          "zsSz5roEZ34Utf4QwDvUzktiXt7Le0kqUUD9rpLsrktL4Fue6qrr18A/+PbkVV/6",
-          "K/E/Sf8a3JTSajLd3RADI6xLn8rmmKzTF+yMP8COq59YQMNdFjLRd/TLnYV90GI5",
-          "KIzhjUCrpOGTs77l+unz0VoIHBabyRxLUCQa0dWYK6igW7oe7LB0bxHKTOBtro2t",
-          "gamd76D2FNFUK22UjrcjZ78gNIrXxi9MwqVTcC1NB4CWwXVLVP4mkNY99igGDREn",
-          "1rTxZSUfgInjaGK2NlaNihRhAk7rO+lC42aPuwbYgd/EB+834bPnsMc2+rE1Gycg",
-          "MnzEOzQJCSaxGEq234qBObEHwaohiLBVOUwVy7OiVZ2E6Vo54pGIkOAezsDyE5i4",
-          "oYg6zp+/YaTYJpPUnB2wHP6FXjK5+e3hZoqvlWa/O0RTzYu9hUBKCxQ0KwXUcI1v",
-          "DI6ZmZ56dRLlV6wZdbPKJrhvxFmWDVVBSht8OlKN3W+gOCkI9Znr1BeyArx4bIZi",
-          "FuCbxtSdiObz/uOLZewM4s1oeoj4uQMuE7HPz5Ci4BjfSmQlp1GH4cjx18N6LSmv",
-          "F4gfMqTYYkQYCbN3vvposHGZUIuNDT9tALSwjk/h/EQE8Ei8caYT5WRgFRohBgYC",
-          "YHnDmI/7l7uj2RINxJiuKUgSUDzoYU0icHDRj/ztC7yVQoBFUwi7EbFsnW3YHIug",
-          "KnQwtU0gDsSB8XdDIZLelwrwK87eD1VfP20v831AoWdRTNG0UzDAB6d/4F4i+rR8",
-          "eXz/brmd1mGQBtA6HAtHWq4HnBCf5iH/F4ejsyscS7TAa1RIolKpv1ZkrGAkTutW",
-          "11BLsZ9Ks4TlR+wNXkJqCeEXp9MvhiPZ1gXIUhTG4Ew="
+          "https://chimiav.com",
+          "https://chimi85.cc",
+          "https://chimi86.cc",
+          "https://chimi87.cc",
+          "https://chimi88.cc",
+          "https://chimi89.cc",
+          "https://chimi90.cc",
+          "https://chimi91.cc",
+          "https://chimi92.cc",
+          "https://chimi93.cc",
+          "https://chimi94.cc",
+          "https://chimi95.cc",
+          "{{domain_list}}"
         ],
-        "wd_url": "9UvvnwFNVss9GjMjLVZUjWBe10KoN1d6LLOf3/iTHi1B+VOSfBMPSey0ZRzg9dJ//IMrGcmYdgDvDbjO5zVC/Q=="
+        "wd_url": "/index.php/vod/search.html?wd=<*>"
       },
       "logic": {
         "platform_names": [
-          "3VetkXn6DZfqKgK8W4K9dxPrAGualXXo+5PqS+mztF8="
+          "痴迷AV"
         ],
         "invalid": [
           {
-            "type": "sbdn7TYzZLboy4tF78hDK1ugjgVgezoSUrPO4wqEUCA=",
-            "selector": "wzFqI7FX0cETY/K4C04R5GCS4MJCr7gpYe+mwio5bMY=",
-            "match": "sGK25F8fX/3z4eHhEr9DpQK461uMWLOZkXYAa/vT6q8=",
-            "method": "9pvh/pjMCEQtCMVgDe5qCqQpFosRc0XHP4dCDE2Elxc=",
-            "invalid_on_not_found": "UPe20FcdOvZBl6SPLVvNknU1qhFdc3Ti3ZzPjNAfL5M="
+            "type": "html",
+            "selector": ".list_box a",
+            "match": "{{keyword}}",
+            "method": "contains",
+            "invalid_on_not_found": true
           }
         ],
         "valid": [
           {
-            "type": "2uLCHqX65Tj8LXx79ioMKh/ib+aqlVAzjAn3ouINlmk=",
-            "selector": "KNx79PRT9CJXzFqJLBBGSWyQWjAfs53tzyin7j/7CHs=",
-            "match": "OdaAG2n8aguDljjdyOW9qyS1hYycB8U3iD1MGabzSpQ=",
-            "method": "nz1UOgYW1/BsNnZy5PydSwIqKUb43gPUXzQk/7Y8tQ8="
+            "type": "html",
+            "selector": ".list_box a",
+            "match": "{{keyword}}",
+            "method": "contains"
           }
         ]
       }

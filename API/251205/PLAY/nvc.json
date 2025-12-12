@@ -1,40 +1,40 @@
 {
-  "name": "EG+zbEUiMyLYx6wcaZpEVQqqEYl/ApcJKGatuoZkqxc=",
-  "base_url": "yn28+yBMgCjI87jgoU5NVVsGSRY+HP8VL+8uiK8dgNjOSoaOB1zVYX6GcqwBSO09",
+  "name": "[有码]NICE.AV",
+  "base_url": "https://heimao.nv06.cc",
   "action_data": {
     "video_url": {
       "steps": [
         {
-          "action": "Sg2vN6Abk0QGrIiOdiY97gqEIPOeDGVSPfo9h0kcK2ZlDb2tErMtAdqIwa2Acq0d",
-          "url": "HC4ngx7hF07tlOKt5Xuudo4u0KKKNtbP3sMjDjGJJck=",
-          "priority_scraper": "VH7yNwucaGXKwg67xQOQQQ8CVcy2PnBr7rppBuVf21g=",
-          "use_js": "0NfyjXF+6no6rZeNp8J0q0LuJO1TQuSnQha2uy/eyT4=",
-          "timeout": "XMXNRz3h4Ng77kQg8fbLvzP6IIQdyVygoeLb6+sudjo="
+          "action": "request_redirect",
+          "url": "{{base_url}}",
+          "priority_scraper": true,
+          "use_js": true,
+          "timeout": 15
         }
       ],
       "result": {
-        "domains": "Xiu6k3yBCGG3Hb5eHawuoT6vq0n5/UC2Xjtt9ozhJsk=",
-        "wd_url": "HeHnoas1KHc+Jt9n0EMYJupCp27DZ4GhGpGnheK8QTlhN59jfd0ABcdhBxooG8X0"
+        "domains": "{{real_domain}}",
+        "wd_url": "/play/yjs/<*>.html?ref=HEIMAO"
       },
       "logic": {
         "platform_names": [
-          "TU2qQwHhER8gESvaCI+XVVVQhR6vh5Ky1Bk6APOMKsQ="
+          "[有码]NICE.AV"
         ],
         "invalid": [
           {
-            "type": "IpUfoDG6LY51S4vosE+3LFq247o7pT1gBTDq89r3gVU=",
-            "selector": "4EO4w2ywRlIyyHBPaDrt9R27cizoEYGOrcLrPtIjnPo=",
-            "match": "YCnOE2SNYjJpMTz78yFePiKtVfq5R70M2SdQVng5cT0=",
-            "method": "5vXDYxVUiWSEFI6COmmkyk4mBsq+86pz0KOUHXVvptA=",
-            "invalid_on_not_found": "kJ11Zq3tiO22talb1AfuunI9mojCTMENf2uZxkZ7ZLk="
+            "type": "html",
+            "selector": ".playtit",
+            "match": "{{keyword}}",
+            "method": "contains",
+            "invalid_on_not_found": true
           }
         ],
         "valid": [
           {
-            "type": "3k/aQNE1xS5kT9x+z4IFEohJV50Xfidf3vQ3J9u5SPk=",
-            "selector": "AbNSyLx9c4VWxYwk93d4phGpKYl0a5+YgYinPxFwZ0c=",
-            "match": "TKRdmGRL9cbsN9OsySbxgsxmPWzIcpNuDs9N0IZRBr8=",
-            "method": "p8+48L5idzfVLysU/GxAX4FiEJgzs0waB5vINX8Rfjw="
+            "type": "html",
+            "selector": ".playtit",
+            "match": "{{keyword}}",
+            "method": "contains"
           }
         ]
       }

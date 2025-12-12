@@ -1,40 +1,40 @@
 {
-  "name": "SwqkfG1qbae4xnw5Bv0eAHcUcv9S8MKsIHbFOXfa1lU=",
-  "base_url": "tf13pAegljz4wXXLoYL2QUSrq0FJIBLzqjNZbpFQ3onZLMoPte3WzhcxAanG8+ku",
+  "name": "[无码]NICE.AV",
+  "base_url": "https://heimao.nv06.cc",
   "action_data": {
     "video_url": {
       "steps": [
         {
-          "action": "H9ii129CRUk05xz+dHs5gmCsA+7fFYYHz07f6Lp0q6Py2rQ6kBL6eDGLu7HM5aB1",
-          "url": "Ta1OvQ8kOXxOBE8VRIHR5zIKAM5X+eO/arkzTOnUF3k=",
-          "priority_scraper": "HKZrLtJ65edXcYzNdzagYELlXL1l5pXJLaeCyVkIeWI=",
-          "use_js": "As1xO357t9dZuzJ4W1RtgNZV46f3I1SDHrrqaVvMfnc=",
-          "timeout": "AkkhFb8FCxtnTj36eJlQ1HpD2EYIwMaSKxtcYqLV7fw="
+          "action": "request_redirect",
+          "url": "{{base_url}}",
+          "priority_scraper": true,
+          "use_js": true,
+          "timeout": 15
         }
       ],
       "result": {
-        "domains": "XaODsHJp7mRXNRXMnkIOS1J2uPI3IKigQxH/fjPVqV8=",
-        "wd_url": "BgCOCMCEuZ+aP/pZMp0orh6LVepnwzc4cYcGPrtD37TGzOj54eFGl74AOW2up9bpfgjh1P8tBsuIt3c3shQOzw=="
+        "domains": "{{real_domain}}",
+        "wd_url": "/play/yjs/<*>-uncensored-leak.html?ref=HEIMAO"
       },
       "logic": {
         "platform_names": [
-          "anbzd7AFKJzRIkfDoevDyah+gnuTsWxxcc3ZqrZbxoc="
+          "[无码]NICE.AV"
         ],
         "invalid": [
           {
-            "type": "NPOBaFaoYf+WNZ78Owu3si52KbpXFLyfDulPInETG0M=",
-            "selector": "w3ZAxxiEwFH+oJwTKsmf7GwJZWFL/e/80jHSGQgn7ww=",
-            "match": "YzeCk+MaZg/9kvop6jcNIvBvRY1dlj9N5v8xtC06oyw=",
-            "method": "3n0yGbcC4qZWOrCY4/oOUjllFlHIsuINq3HFzwmdCTc=",
-            "invalid_on_not_found": "o+UWBOUYXabcIC781p0YwaUFo+0GS4MA0sp8rbCs3iQ="
+            "type": "html",
+            "selector": ".playtit",
+            "match": "{{keyword}}",
+            "method": "contains",
+            "invalid_on_not_found": true
           }
         ],
         "valid": [
           {
-            "type": "Ew7DTXabCC584djQoHM9tJkG23cOge3eNL2Tw3+M5Ps=",
-            "selector": "f3eD19K1XvBD5WzYOJOmv7ooqco0b/xXoQUpo2dE/Q8=",
-            "match": "5E9Ah4CGstZvzj7kh6aQz2AUNlkmIU19z8Zmnhk9V9o=",
-            "method": "yMQxDgr6tDL38f2tvG5h7ZjaPd4tURs42050qetqtK8="
+            "type": "html",
+            "selector": ".playtit",
+            "match": "{{keyword}}",
+            "method": "contains"
           }
         ]
       }

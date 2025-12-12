@@ -1,58 +1,58 @@
 {
-  "name": "KcpuQKQcWvEmll5FfUnS2PIGqclSdg/M/AYjvpsvOYk=",
-  "base_url": "WvVe5vhq3I8oxZBxlea02FcHyDNp8Fiu3ySxZ/mDU2z92ZyJa+FhoWQiJqMMK1CO",
+  "name": "91RJAV",
+  "base_url": "https://urlwww.top/7htcl",
   "action_data": {
     "video_url": {
       "steps": [
         {
-          "action": "Jybev1rcdAuu0Ty2xxl7RDAzCNsmXR2UX0RprogSXPTc9FdrK9ole+BBUtLMCbln",
-          "url": "WJyf1ObfT/CbshLrFv88CB9jQLt3OXQxUm8gxFSy1aA=",
-          "priority_scraper": "/Wdar0tJqKFU6daCKbKaP2jiBm4aVjSigQuXPYkk4bs=",
-          "use_js": "8hy7uF291ZnkCbjqCI088EyyiCKf8rHveJfXmAz6DyQ=",
-          "max_retries": "pMeifoqNQO97jeu4/o2PM6l+CM7kC4Mb7Yo7fZ6zwOs=",
-          "timeout": "2tzMf8OyO04TPZkR93o3z09+/cwtNCd41VEh9/LxMVg="
+          "action": "request_redirect",
+          "url": "{{base_url}}",
+          "priority_scraper": true,
+          "use_js": true,
+          "max_retries": 2,
+          "timeout": 15
         }
       ],
       "result": {
-        "domains": "DhU/CxSa9RbwG8sBztBIgstheE1IK4vvF3NyhKe0S1A=",
-        "wd_url": "6K7ev7/c147UIlQkUJE0cCE5hzdtvAkePXsmAj+HGmXH5/ULVK4lwKXEgtxfIyua"
+        "domains": "{{real_domain}}",
+        "wd_url": "/<*>/?ref=HEIMAO"
       },
       "logic": {
         "platform_names": [
-          "SPyrcJcsmQbppPTK8S7R9UqEK3yzMEQoVT1Z5GO2Y1Y="
+          "91RJAV"
         ],
         "invalid": [
           {
-            "type": "nqrqN9TRmAG4M4xFo4AV1CNW9UqXV3bdm5/hQeMIrco=",
-            "selector": "cm4vBPsMVLIIqH+TAQvc2czEuzSAM6qqZHa7bA2hJo4Ae70Q4oagcjFlp8YBC5dT",
-            "match": "k//7M+RkJkyVwApdY00u2yuhQaOnKgB4Pp8QvYKoSHk=",
-            "method": "O2d3enJtUEzRPeg4Xjd3hW/ws5avNddqZgflz2CGlPE="
+            "type": "html",
+            "selector": ".widget-title .count",
+            "match": "(0 results)",
+            "method": "contains"
           },
           {
-            "type": "iQ4VhiAV+fwNr2VulzccT5jvAdDOhJAxrvxbPxwXCjM=",
-            "selector": "0LjnZce1DVYACNm6drj42Vc9usY32bFaGSykJpaIAHk=",
-            "match": "lXCSKGBusnvc2dN0VpxhWSrawR5JoBw7YFMyQFZI/gq7RP56M40lAcXNHg97mh94",
-            "method": "Ao649BO8ZyE6dGMcERrZFSLYxIqa6jBEE+r/SVguN4Q="
+            "type": "html",
+            "selector": "title",
+            "match": "未找到页面 - 91JAV",
+            "method": "contains"
           },
           {
-            "type": "HSo2RryWA9zeGdR2A25UPk8FzeaM7zgXinGyDsF3RXE=",
-            "selector": "cZqQM2AjwdRFqfnA2qeqYrcnViEgZdWuo4aWjgeg9gpMQwUdxcsXpwE3bWU/3WW9",
-            "match": "AwZxBVN1mFSMUvr2FqamZjv1oa3sMbaHQ8O2ID8pENSDCy6Fwq86I1GSglEaNpC/SUaM2YRQH8O/BZ3dZ3vMYw==",
-            "method": "UXuCh5fdaTuIR/RmqfAfo7HtR2rvUW8Y+A3+O+pzb2M="
+            "type": "html",
+            "selector": ".page-header .page-title",
+            "match": "Oops! That page can’t be found.",
+            "method": "contains"
           }
         ],
         "valid": [
           {
-            "type": "XeSJeT3T0D9RQmXnQR6GWhFhqWycxArztwwaiA3pckU=",
-            "selector": "zK5esaUzxkjZEJ5Wytxi5AxE1plPf9CZLmzM7FQ9eLo=",
-            "match": "oknVsQ2M/8ZuhuYqIBH//NhoNFmTyAhqIsBxvzPBrsU=",
-            "method": "Dlx2O9sQ1fw9Wjkq/yRG9mvU2J9Hb1RC8LFm6S4bPLQ="
+            "type": "html",
+            "selector": "title",
+            "match": "{{keyword}}",
+            "method": "contains"
           },
           {
-            "type": "5ZXCywhaF2LY14uwWtgcENkuUwsWOixj2y1N5Ei2A3c=",
-            "selector": "jkK63QJ31AgbBIhC4zRzc6VGlu6or4XocWAWpqQ32mw=",
-            "match": "kZzOsXZmVWhAE315ms48+/xe5rP+qWwjKD1NyGu+fbg=",
-            "method": "sdSHioIyCP2cCvH2Trv9FBRH5tt3Mg2HpuRvRo3+fvg="
+            "type": "html",
+            "selector": ".title",
+            "match": "{{keyword}}",
+            "method": "contains"
           }
         ]
       }

@@ -1,57 +1,57 @@
 {
-  "name": "T4E7dJ41sVzSm8dXGtftC+2xkabSK+C9q1H1MbGBteQ=",
-  "base_url": "sn997ouvAwAlSfo9SsxoycXy83pfUD/nUtRclkP3YMw+BhcTasF7tkSG+yQd4BPE",
+  "name": "AVHUB",
+  "base_url": "https://avhub20.com",
   "action_data": {
     "video_url": {
-      "enable_js_redirect": "E0tE5lph2XzRg+rZpl1teqOaUGEMgcfGY7MUt9IRzMQ=",
+      "enable_js_redirect": false,
       "steps": [
         {
-          "action": "kk9DPmUetAnP0suT05/FgV9VEH1Vy3eLI+Dss2QvTSg=",
-          "url": "TMmRkofHRn3cm4YaJy5DMxHii3/HmKWXfXRkn4wRYrE=",
-          "force_js": "MANAj1CDKq1SXyxaNAazI3VAWi/0ot+3yYba1CMf2Vg=",
-          "timeout": "vnvP+JSkfgV80um++lL8GsEc5xKxM2yo4k+sBCdiBcY="
+          "action": "request_js",
+          "url": "{{base_url}}",
+          "force_js": true,
+          "timeout": 10
         },
         {
-          "action": "w86JFnxPH4XqioiFM+pxymAu58S7xWVlJRXW0uy/VyQ=",
-          "selector": "Ri4uzVasAD6ZiF16H+xe393/Gf1pTe7hYRQQprE7MlY=",
-          "attribute": "TAy6HS41BIzFeQ/Ku1E2vTa5zMPplt3pmsse04OWXbU=",
-          "multiple": "s2YwkXSG+odVv4oY0virECRhgGdPXNPMMxAsWGNVVrw=",
-          "save_as": "5hGZ47qfs/XtU6yNM3cKIgaqpODCcUcOAD8KwfufRXQ="
+          "action": "select",
+          "selector": ".list a",
+          "attribute": "href",
+          "multiple": true,
+          "save_as": "domain_list"
         }
       ],
       "result": {
         "domains": [
-          "LPCsWK89yx4DCA84s3Rnw0kkzEcVqS3tMxePufW5IC/sgfOvuI+6fvU90ewiy/Qo",
-          "02yeVbJUF9Y1QJbbjCwa6VpJMT/J2KU+AAZ4Cwckzm8="
+          "https://avhub360.com",
+          "{{domain_list}}"
         ],
-        "wd_url": "B4lUCnwnQxh+tIrODcQUlLqAlenegyBZoTSCsstYXtU="
+        "wd_url": "/videos/<*>"
       },
       "logic": {
         "platform_names": [
-          "cYsa19QtnHZ29l9L+tmVLS06pxZdPoo/k2JFRAAAsy4="
+          "AVHUB"
         ],
         "invalid": [
           {
-            "type": "usXciNOFrq2U9UzlwP010oNknoUHAIrZRqEE7BaLpbE=",
-            "selector": "0alEAFn7dMMiMr6dIZdUrpqC+7vYt187YcxJZWaSRdDHcXa7nJNWFC/5gO3ZP8XT",
-            "match": "UFdBU8vbNH1IMO9PorCLMD3u4HYRUSMh5s9rNBmTIZw=",
-            "method": "2WpzsPK3mqPMGF2q1NK42SgdxhYBXmv6hAb7aMRVlkQ="
+            "type": "html",
+            "selector": ".file-not-found .head-404",
+            "match": "找不到页面",
+            "method": "contains"
           }
         ],
         "valid": [
           {
-            "type": "C9zC1m0thtGst3uURkQk2vjLH757RI5Q5AgqcA+2sm0=",
-            "selector": "C/82DhCCU50I2UcG6vswIMQL6VCFW7hiPPJRzKvGEoydomieJk77TJOvm8HpEwk63jb+zBKXkhvGIH9viZ/ZO32mZLYzd7m4hCPbpMuKgvc=",
-            "match": "VK1Fch8DmMPHxP1FaAU/F6sY2KZStYiFrvpu3nNcCMA=",
-            "method": "bLYpclq5NqKmRcxUFLsLYnLR6lnmuYImg4cm5E/dT6o=",
-            "min_count": "IYhgJK/fCTusTjfdYFaf/oEPmzs7noNqIcicPAKvWSs="
+            "type": "html",
+            "selector": "button[data-plyr='play'], .plyr__control[data-plyr='play']",
+            "match": "",
+            "method": "contains",
+            "min_count": 1
           },
           {
-            "type": "ycnDol2s6Mg1W5X6GpKZrIDoDtBnVOtdxY4nG6FPNFo=",
-            "selector": "oGzU+M+nhMoHxxnjV31Vs80Dq4lz2gPpGIpt+3MX0nYGYd3MtKDDA3v4wRk+6pmMp7q21iJyXcXyIjmwBxxKDA==",
-            "match": "DJtQpSko162VEy6ZHXUPbw8y7znU/nAXGCYghoQI0ug=",
-            "method": "ubkxvrdLi3nSm5O+iJoTiGy6tda+x+FXbQrdbqnaKu4=",
-            "min_count": "tYSSTPS//w3isuSNLslHMUF/zWvYj6gnQfq6ttsAfnA="
+            "type": "html",
+            "selector": "video, .plyr__video-wrapper, .plyr__video-embed",
+            "match": "",
+            "method": "contains",
+            "min_count": 1
           }
         ]
       }

@@ -1,112 +1,112 @@
 {
-  "name": "mjNRjT+umTF4zBMFEUAMzME8i96Z+sgqPb/i/RZHlJaLHCcWIJTio5HBFY+jusvS",
-  "base_url": "2MAC9Ixl2U27YAk+VpiXJuR6bXl4R/nfx6/F+5af5Zv+3QNLJ6TG4L069+wTjr1C",
+  "name": "千媚宫多线2",
+  "base_url": "https://dizhi.qmg2.life",
   "action_data": {
     "video_url": {
       "steps": [
         {
-          "action": "GGljm56ovIySYYz1KxZlqOprABVIRe3NbPIyArsiKOc=",
-          "url": "f61DZ3L0IRVOGe3LzJCzaV2aFVsUv9jTkzNXhvoMqTk=",
-          "priority_scraper": "6UY/vM9yycD/df4BqBOIqdLimpgwOEfcSegeAU0dBHE=",
-          "timeout": "G5pu922Uwm8iVfbrfpP/sC+M9kGGRkljAmIroj0Q/s0="
+          "action": "request",
+          "url": "{{base_url}}",
+          "priority_scraper": true,
+          "timeout": 10
         },
         {
-          "action": "LWZe8bBYO/H3FmVhtggPO0Wyqll3Ggdwppskj1M3TWI=",
-          "selector": "CLhbQ2xMKKMqAkSJXIU0kVVPaxCFTAiDrNuzbdwUqzc=",
-          "attribute": "jVyyM6x1pK26S1K4wX0Fpu6uz8RXMUn9BGy4mJPxXIY=",
-          "multiple": "NVzbCw+IwKFS0H47nsdjX3nhSkaMp4Jwv8WvXIyj+YQ=",
-          "save_as": "Yjo1xfijCNCEL17LbXGk8OOUPSFEbRqsT+3jxKcXYnc="
+          "action": "select",
+          "selector": ".enter-link a",
+          "attribute": "href",
+          "multiple": false,
+          "save_as": "qmg1"
         },
         {
-          "action": "B03hFZ5b01sEmmACj+VESvdwFrTVOf6UxYtncM7MCnY=",
-          "selector": "Ic5zdk6UqFCFILuo66N/+0tY+LGZ1hazxQlG0hA2Gzx3npItliHjXhMIX6xhsKcM",
-          "attribute": "A4yr6CpXQAakBigp/il1S1ZcXAk8s2bG8fYupgT3fuI=",
-          "multiple": "qE180spkSpkMPvS+GBzWN0CFyu/iuF09392PrqPA/Sw=",
-          "save_as": "xvrIfsjaJLd1RAO0SaLcAWA0lR7JbG+XBiLcP1pGTFk="
+          "action": "select",
+          "selector": ".enter-link .c_blue .c_blue a",
+          "attribute": "href",
+          "multiple": false,
+          "save_as": "qmg2"
         },
         {
-          "action": "BZATUvb0GEls51jGGGKr1gU+kBo/pU8kc/Wg4Bt0GKA=",
-          "selector": "AKdTsTat75x5pprNKRCn05VyDWTsfdRgYstpwsyjHOk8Zr7YVahtORXrIHZ11lCBUGz21jmqUNnqDjpNizII8Q==",
-          "attribute": "8KPad2PoKRC8PhEWxNZcxypd/Fu5hut8nphfahMB+Tc=",
-          "multiple": "VkP62WaNXGxTqDhR8ykVQCxRI7/6tlMxhyak/FfvE9g=",
-          "save_as": "Lghr+Te5bdo1H/HPv9vuvvJLc7gEzkNNJCs7vRoeJ3A="
+          "action": "select",
+          "selector": ".enter-link .c_blue .c_blue .c_blue a",
+          "attribute": "href",
+          "multiple": false,
+          "save_as": "qmg3"
         },
         {
-          "action": "s9XRZk68ZxEQSOHUWX23ilIiWlbPcZ/iXgDkPbB0YIA=",
-          "selector": "H+ZszerjLvTeilu7FogFWswmOD/2pglNzM9VcmmDsNkHWWyBxJS+mfGkp5/NP7RJOQoBrrV2NFQgJNPuxSOAkw==",
-          "attribute": "baYrHFHCUEov/5kMOMyiTymRf+pxk/hHSfO+LdA0Akg=",
-          "multiple": "kdZRIMjvIV4VuHMGLMr1Nt/O3WNZMDqmJ3Fx63JEwoU=",
-          "save_as": "FIBlnn6SSAASCFOwIOXqv2ySN7YrKW8SJ2mp73a4Zlc="
+          "action": "select",
+          "selector": ".enter-link .c_blue .c_blue .c_blue .c_blue a",
+          "attribute": "href",
+          "multiple": false,
+          "save_as": "qmg4"
         },
         {
-          "action": "qRNWgmAIsQW/JKu8gp+jKPtpUSotGjCuIUg8Rzi1xjQ=",
-          "selector": "+AZYi6qdGpkSOZ+jGP47NPoR2UyJNNPc1NCaPakNTqlAPdtMFwkaNX+uc/GCFKaP/XTl75rzjVb+CpGlJfY8uw6V4IAaXm19Z/u/slBO7NY=",
-          "attribute": "H1Qh6nB8RttV+qX6giisl6UaysHvZE3x5SfKDRxLjso=",
-          "multiple": "IcsiXlOIh2syXdU+QthBOTJQ/ruArTEgzBBYpVyHzzU=",
-          "save_as": "4BvTZbfjxnJ5NSlGhwt9DMicQQWdt3DfcvhFPVelpwQ="
+          "action": "select",
+          "selector": ".enter-link .c_blue .c_blue .c_blue .c_blue .c_blue a",
+          "attribute": "href",
+          "multiple": false,
+          "save_as": "qmg5"
         },
         {
-          "action": "4COJnyeyXhExhVQ/G1YXGviDEK57pC18f6PpQH6DlL8=",
-          "selector": "+x5DFukZF088mffDweoQk7C7MDkJSJvo2eHtMSMJYAkOWs6R9Vgbc7NK1kQTKS2RtxyHdVXEKGyIMR/ZYvxyoQ==",
-          "attribute": "sNN4A3e0vnINdqAImLVb4daZLV2YEJx+CNn9Qmikt04=",
-          "multiple": "hBcMMOTtuSW8Pydz72E+I7qfMrlikgG+LNBEmgTvQhI=",
-          "save_as": "fZMKtI9gBQ64PR8siwPsz9j3UqAu9XMZ6fQq0329zL4="
+          "action": "select",
+          "selector": "div:nth-child(4) div:nth-child(2) a",
+          "attribute": "href",
+          "multiple": false,
+          "save_as": "yongjiu1"
         },
         {
-          "action": "fKLQ9Xx7D0tr/iJioEWFSuXWIxOAxSYct8MZut7EA+8=",
-          "selector": "x/5/OetpfPBHOgGBqNQ77zi7vwVWrtudrfUb2aDJD8VkFpdf84DruRCWm51fEQAZxHN/GPSqEd8g1KcClLZTkg==",
-          "attribute": "XGJ8SKdt0J+lPwo8Sxv6HrAF8j4ThsbOjYkWknqlTfU=",
-          "multiple": "WM5DZTSDuI3RgPSP9Q8jB86MIIg63SxvltVaYz2Oyeg=",
-          "save_as": "xiYjSxHCULpTnbhHLSQsvUPzOynK3qXkhmQda0gQOtM="
+          "action": "select",
+          "selector": "div:nth-child(4) div:nth-child(2) .c_blue a",
+          "attribute": "href",
+          "multiple": false,
+          "save_as": "yongjiu2"
         },
         {
-          "action": "oGkm0CrpoMQDNgpQ+xRIG2ROWCh+zTVKe4BHIfjMqcE=",
-          "selector": "b0m3QAvaQ3utIlXX9IlOsTKnnLhsxifN/LoVXb93lkqGRlCCzStuRFl1v16WPNJShwGoQgcjAA0SQcIb8kYZY3Fzs1mLCsOL/cYXn1BeRd8=",
-          "attribute": "NgUO0utaJx9QM3L/ubVB0k87RA/EhKnlris7xzoKuIQ=",
-          "multiple": "PwH/Wi1UOF2Z4IyadV0PLHUW9VgnueHhiHjdKmawbdI=",
-          "save_as": "bFh8+vubvo6j77RMPpyFpYY1nyzZ4YdcykYFo8tLrE8="
+          "action": "select",
+          "selector": "div:nth-child(4) div:nth-child(2) .c_blue .c_blue a",
+          "attribute": "href",
+          "multiple": false,
+          "save_as": "yongjiu3"
         },
         {
-          "action": "dqPB7YaNFSn7P35VVvE0OAIninbfSJY1/uAngbQ6c9c=",
-          "selector": "Zpxj+GCHj2AND9O1tq1NC2KMjSx2RhszUDZ9ZsGfSpI1WcmTbrSk0ke/6SY0kp0nhasvjp728t14X0GLQ7B8+TXJnVVzZKO7xsm/E6fDK6I=",
-          "attribute": "5KEbqkCFhRKn4L+ZhQuj9nOxbpYOq6e/sFsv0d0byXQ=",
-          "multiple": "ONm92sombeDQBuU8z4juzC3aWTv8YI7OeOkkFtpHuVY=",
-          "save_as": "DUcJ73vhuiRMT8UkgbH3CnpnNVe532Usfk/mHXQADRw="
+          "action": "select",
+          "selector": "div:nth-child(4) div:nth-child(2) .c_blue .c_blue .c_blue a",
+          "attribute": "href",
+          "multiple": false,
+          "save_as": "yongjiu4"
         }
       ],
       "result": {
         "domains": [
-          "AJAM15Y1bilJ/juSiEKOK2Z08X9vnGrSs1Y3sDlz4oY=",
-          "MFzPtAE5LtxqB4aXQFviub6b10J+Jxr/drxxJolOiGE=",
-          "O+Uz6lM7ZS3wkdzYZ5QL/MNxPIzO5lCsxPLa+OrFSIQ=",
-          "YB+Qyiwym9S7SFXN5PEDiBOKg3YgML1+EJxhOaZRtQE=",
-          "X18JIuDMGdxdjP2t8s7UWJdwbkeJodx0/uomxtbzaxQ=",
-          "mdPoV7mQsd9HX8DGDpoj6ChruXrKMluMfMT2RccXn0w=",
-          "9/erI8/Ce8vlG3iY40GOuReO/3+JhOtlNwcJpO9+40M=",
-          "lGbsqKzlrs6OEqx8nvbnZLB3+eXH/zigjHD6BgHhFLA=",
-          "VlhnKCvHwzbui8vXxzFgqZHJE+baaxKh3J1jUhU7f0k="
+          "{{qmg1}}",
+          "{{qmg2}}",
+          "{{qmg3}}",
+          "{{qmg4}}",
+          "{{qmg5}}",
+          "{{yongjiu1}}",
+          "{{yongjiu2}}",
+          "{{yongjiu3}}",
+          "{{yongjiu4}}"
         ],
-        "wd_url": "5Z/Wxo/Ga3iSswxtlCJeq4/ST6w5cgGJOI9B4nb88UEiSyCbdT+w7ZJ5F11iB5YT"
+        "wd_url": "/vod/search/?wd=<*>"
       },
       "logic": {
         "platform_names": [
-          "lCQ45rfYM7VjtuqvApHAtYQmpwZOfA1nD/8bB3bMJJTFQ4o4M++AmNIC0TMhvceu"
+          "千媚宫多线2"
         ],
         "invalid": [
           {
-            "type": "kdcb3jKam0ycCmNn3B78cdwcP/e8ImuEOErWHaled0w=",
-            "selector": "fEpX5Vf0GY6grvd5EmaNWT826VVswgsegD+y3/dLngs=",
-            "match": "mxgQ8CEOZB0LE+l3TqqjFiUKS2aP7qAeqm8osTzYUgY=",
-            "method": "m13n9qfxnDBM+B8Gh3UhJ0zjji7zA7ke0vK4bq3n7Sk=",
-            "invalid_on_not_found": "acV/CrC5vCuewbRR6iw2uTwNrNe29dmsU+Sr7k/FU6M="
+            "type": "html",
+            "selector": ".list_box ul a",
+            "match": "{{keyword}}",
+            "method": "contains",
+            "invalid_on_not_found": true
           }
         ],
         "valid": [
           {
-            "type": "tVHI8SAmjGganvxW0/20peE5ekGb2HUBiw9nilcWDRU=",
-            "selector": "WO9e4sSuOA+Bo64qnAn+Se9ou2AU972/viq3WRfF+l8=",
-            "match": "JD5lH7uOJcNDBWJa0WuVYhwHZSu6A0D4WiR+2e/AO2c=",
-            "method": "Vh6MBJT13i5n0g+YKJXcfQjPQDTqqOcAjwYsk7toDXs="
+            "type": "html",
+            "selector": ".list_box ul a",
+            "match": "{{keyword}}",
+            "method": "contains"
           }
         ]
       }

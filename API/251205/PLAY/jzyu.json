@@ -1,56 +1,56 @@
 {
-  "name": "L0XCq0OuM58LPYwiGzkB+pMm385sqZ5/w4vCsnmWBx5xmyehnK+H/HgteVLRrNCI",
-  "base_url": "0mGlAEni9fBVwiKO8kO7QFOJJ1/p0y1pEadlmRbkJ30ZyRsmBcCCuCLdLf6ZgCq9",
+  "name": "[无码]集中营",
+  "base_url": "https://heimao.jzy01.cc",
   "action_data": {
     "video_url": {
       "steps": [
         {
-          "action": "dWsm+1yYWAMRFWEjiX0aeLKge83Xc2UhNw73Itxqk2+IrtLUkd88G21Ad5+VoQUF",
-          "url": "26sBPMy03opNMF/KuOckm2UfeDSobEhUSCIVW2hK3e8=",
-          "priority_scraper": "Q27gRMCf9Psajm1ywx8nVuIYezfNXCeF+3BrXOnkJtg=",
-          "use_js": "IKVmvjvhJpXqunNPfaHUe4ubxZrMBLr9ODgRqxQ7laU=",
-          "timeout": "9I7qUvVVUofRmXKzOmZbBn/xkEToK9l1MjkpEHhSXtQ="
+          "action": "request_redirect",
+          "url": "{{base_url}}",
+          "priority_scraper": true,
+          "use_js": true,
+          "timeout": 15
         }
       ],
       "result": {
-        "domains": "ZJaoWUCauT3jyXIEbf6+WS/3nSDGlvkk0fRzCO7wcNY=",
-        "wd_url": "21/R640pjeFfJVFj89hSukFKpN6X78mLX15XbZLoTnGMTUFBncJwvKxTS79jRa2vQTTAaBebvG6t2SBqxbc7Sw=="
+        "domains": "{{real_domain}}",
+        "wd_url": "/play/yjs/<*>-uncensored-leak.html?ref=HEIMAO"
       },
       "logic": {
         "platform_names": [
-          "pPgQZVGfUMbDlk9q/L6TgMCcfzKAPTg+gxH1SxQGCgKktGow/D7oBuU60UGCWN+J",
-          "9AiU003vWUwVX8SJeGOoP5fK3dljpKg4Lp02A7oynzE="
+          "[无码]集中营",
+          "jzyu"
         ],
         "invalid": [
           {
-            "type": "ST/EYBAGqjf62FaT+BFEHrle8lQxAhd32rzXDpQuEr0=",
-            "selector": "prxR8aC8NRf1b3xliMiRbJkJEiky8yuIOqrnHHcfIEg=",
-            "empty": "+SPo7cb+xXYxB3FoXy8cBdNt0YUEZrjSrtWLVWLNRAI="
+            "type": "html",
+            "selector": "div.mymenu",
+            "empty": true
           },
           {
-            "type": "wcuom1zl58sJogeL3282loxZoyB7YC6PoDPXpx7fRwI=",
-            "selector": "J7Z9YXH61d/v3wOukCFZ+kS2lHpslDYv5X+KfYyjpiE=",
-            "match": "nXXHRvjnn0QlsZpAxvxrJesEd2V5E+L1rGqSei4NzY8=",
-            "method": "Yc6opHf1vXwbhiaFWv0qf/J9CARnqcbfrP180FhtIew=",
-            "invert": "twluLpMVzW6MX2uz0phEehfOOR13CmsVUrgCSsJRBY4="
+            "type": "html",
+            "selector": "div.mymenu",
+            "match": "{{keyword}}",
+            "method": "contains",
+            "invert": true
           }
         ],
         "valid": [
           {
-            "type": "0HAdYiYZXupeV3GeA6TYdwm7e8hQXihbKPqcbB6OQW0=",
-            "selector": "lViuFfrdFy6E8/pL9j10gulnhdJg25cL2WYNMVc5ebakt40pZd0vug2+X1GgXWKq",
-            "match": "cEYhVJekiw0Slnzeidfzx6ferDJQP5Ss5IzX9M5b9sM=",
-            "method": "foJOOTXa1Xz/aNvvcK+6bwoTI/j7mG4MaYkhOnIGmew="
+            "type": "html",
+            "selector": "title, h1, div.mymenu",
+            "match": "{{keyword}}",
+            "method": "contains"
           },
           {
-            "type": "ITYFVEa2w9nVnmPSw5+VJ1/aenjyIcMO9mPcfdINU5s=",
-            "match": "5fFjLvaPqOHtHl5iJgZB08jsy3t8RKhnODZKiZksFqk=",
-            "method": "1O4iMUtmUYFGDTl5gMAtJtpmx4VJ3XI4S29TkgFOmD4="
+            "type": "link",
+            "match": "video",
+            "method": "contains"
           },
           {
-            "type": "E03NCPXJ6fKg4bWnXQyxn0Dl4g0r9Niw9B8kuzdBbpQ=",
-            "selector": "tY8BUafQFoFlnZoi/r4eyWjiImReIuBu4zaL0CS4V74=",
-            "min_count": "kfNwW6nxOU/pX6Wo83/y6aRPyLu3fiFiDqZ4hblSrKU="
+            "type": "html",
+            "selector": "video, iframe",
+            "min_count": 1
           }
         ]
       }

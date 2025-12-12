@@ -1,63 +1,63 @@
 {
-  "name": "ABxo288PWMAXp/auGlYkGzZZ+JLW6pe3Q61wpZGjI8A=",
-  "base_url": "vRQKBob3MgTzSM7RNMYQybjITJ9FOWZpXY78ydTN/x/F21+x9IqIKDuJs08XVmCSKN6b2vPz/V7rJPpf30NZ1FQ1HhQ/8sdS9xCIxXanL4ToThF6OCShiYhqKRStaUwledyHFKpGDkpePZuSxYHxJPpCsyWQquVH21v7PQFcTKA=",
+  "name": "东京热AV",
+  "base_url": "https://proxy.v2gh.com/https://raw.githubusercontent.com/djrAV-888/djrAV/refs/heads/main/README.md",
   "action_data": {
     "video_url": {
-      "enable_js_redirect": "LOcyFYQw/65iXCphXXPDw8+bc9Yi1qdNulWpKWEw9kA=",
+      "enable_js_redirect": false,
       "steps": [
         {
-          "action": "Z0NeuhqLMnZy8DFFeGeALpRO5bSPPukEqF1zJSwX3Nc=",
-          "url": "0AGo2CLWtzw8dVRUlPK8ibb4SrOq5qfuuJyu5LTgXdQ=",
-          "max_retries": "8F9gqzxC0Wa2MOdwKw5ilm0syW1tMcVqqXs8K/akzhE=",
-          "timeout": "dK68AfirHX2mAhOp1Hav4rvfVvDnwB2OWop0+eDOBAQ="
+          "action": "request_js",
+          "url": "{{base_url}}",
+          "max_retries": 1,
+          "timeout": 15
         },
         {
-          "action": "mSdcsCqbFTKUyahYXKXILKi2i/K+6zlUXWGwBhixpU4=",
-          "content_type": "uRhkIStFdv5KYdhD1XwFCs1TN0f+DFCbvulCKPRwoCs=",
-          "regex": "eF1Vy3UiKuyfuc6akm2VKVMq43om43JJJBLnSv3yLK1CSahTRvk6s4VgW7g+Yip3JXHvtW3TtxVN+OAKNzyv6Q==",
-          "group_index": "qmNVekMwMRnY87U9DuSrsDCcDtFM7ISWS+iseV5rdug=",
-          "save_as": "zuvIKB61nTl9Ybx8dgavtkYVcq3Ccd6wfQf2KcoM8lM=",
-          "multiple": "JkfD6ehYzwHp6rFa5JZreGbLajwMvcDgJc59MFVaQuw="
+          "action": "parse_text",
+          "content_type": "markdown",
+          "regex": "国内最新网址 \\s*(https?://[^\\s]+)",
+          "group_index": 1,
+          "save_as": "djr_cn",
+          "multiple": false
         },
         {
-          "action": "Bt8qYqFONQoLI6KcLXCkHpOrGdIO19Ml5eypJPwaXbE=",
-          "url": "Ixe/UKQ5dMSubTe4fiXCn/PkAN+XJ8BP0m+X36pMb9Y=",
-          "force_js": "1/6Mq25jUjEdu1LCa7Q4oUGi6+9aJi7+Dt9us8RGcso=",
-          "timeout": "dF79ORSadU5OsQRNP1fHxSs/T/2TxFj1uTaDlMnejsw="
+          "action": "request_js",
+          "url": "{{djr_cn}}",
+          "force_js": true,
+          "timeout": 10
         },
         {
-          "action": "JISPdmbCic+ItU/6EBFMEg9YJD5ciSgkIzrP4RD7uO0=",
-          "selector": "eTnkpTBrN2eIzZJOuvOHhwf6Fx6mOJ5gHAIi3rw1yl0=",
-          "attribute": "CjK3WwJJ06DqOnU7TaukjRhUg8LYnWddT2zDaAq3VVE=",
-          "multiple": "Bc8tIXkJ9LHKQqnDcMMYFd+s97tycwV96PBxrXaw4pg=",
-          "save_as": "dloCEbzeN4+VeJ5kbzEY1iJqMgL4gUeqNHjHLp7Q7rE="
+          "action": "select",
+          "selector": ".list a",
+          "attribute": "href",
+          "multiple": true,
+          "save_as": "domain_list"
         }
       ],
       "result": {
         "domains": [
-          "n+tknQ92qB1iqsCty732Guj1v7Vmo/0zvJ+8oOoq+Vp/9TXTs0YfTmSe0xXqMzdw",
-          "dK1YgQOqi0D4KzFeqNn2bEuII2aeYEguV7qnp0JlM1w="
+          "https://djav18.net",
+          "{{domain_list}}"
         ],
-        "wd_url": "+eOguGfRGxwFjKWDtlEp5L/x3CsqXt/dRKqTIwClo0Uy6BLaZ5v4L4swhBeNznKl"
+        "wd_url": "/search/index/word/<*>"
       },
       "logic": {
         "platform_names": [
-          "366i0u+2E66gcYPOkGyKXTQ23lyb3Dc+ASefWjGHwF4="
+          "东京热AV"
         ],
         "invalid": [
           {
-            "type": "/VSnV4Cg/xcBOf0McBgm837uGy/6IYzBAyRIIPw+Xsw=",
-            "selector": "/0xCBA62XZSW12hmUaICDUPpY/sy36BtC4Rjokb0n44THWvDwYjPWpti2PMKZyhw",
-            "match": "cq0j/ttjsmaOV9UpuIoHf4qECkDAXrq+RTERpvqwfEk=",
-            "method": "EJGj2IcEz23CbJNM8a+S1pvDBVpcCdASqYjFhbU+bHM="
+            "type": "html",
+            "selector": ".inactive-color.fs-2.mb-0",
+            "match": "0 部影片",
+            "method": "contains"
           }
         ],
         "valid": [
           {
-            "type": "AzgTXZBVnS8mMc7D3oJDh0K9lgVgf4diiAOkwu6Aep0=",
-            "selector": "fwz5ZQ6VcptIpPqexy5SJHpv4Ml1zDjhoaeBioK13SI=",
-            "match": "mcmNCKP1TlfflwAiWHUorOkW491SSVUCpKij0OnYTP8=",
-            "method": "JQM2TKdV4fd5SBjc2Bx9e8o6vl8M4cnEFMnD4WBQC3E="
+            "type": "html",
+            "selector": ".detail h6",
+            "match": "{{keyword}}",
+            "method": "contains"
           }
         ]
       }

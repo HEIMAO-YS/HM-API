@@ -1,62 +1,62 @@
 {
-  "name": "8DE2cNe89YCzCo8vSN0KGZZeSwh5kSzKOHO6djWuBXk=",
-  "base_url": "s0sEh50z+Xx6pXjjJ55zAIk8a+BCxhOiW0Uh2F+VydGmdRFWyx7mpzapiTi+kzexVX/EnXvnpswGHHAt0HGPRP1vNDSR1RbBUmG6E30360E=",
+  "name": "91JAV最新",
+  "base_url": "https://gitlab.com/91JAV1/dz/-/raw/main/readme.md",
   "action_data": {
     "video_url": {
       "steps": [
         {
-          "action": "23SGGqEiLSwt73wRqu9CanNkeByx/J64o3AZG85uyMU=",
-          "url": "iUTna2LXGMhOdQ5QgJvRIH38h4e+7YB75OoTWk3TA9k=",
-          "priority_scraper": "auxoO/xDe4rwZGQvS4LvTltMLu3c9KIs/JYe24bvElw=",
-          "max_retries": "8ooOc9W1gU6NQTzq/o2lvl9nrjsCvEkruB+o7BLyoKk=",
-          "timeout": "Gn3S9IrFXAT0zR0LJxoJEuM23/ROjE8yhVHa7ZfSZgE="
+          "action": "request_js",
+          "url": "{{base_url}}",
+          "priority_scraper": true,
+          "max_retries": 2,
+          "timeout": 15
         },
         {
-          "action": "UxVnG57wJgrN3m8NBPgtJx3QXC5Joe9wlMY/kDvHDpc=",
-          "content_type": "AioWTyx3srP7hfbYpX4+B5TAaCwR3WtvJS0x4MtMzjo=",
-          "regex": "Gfrh6AeIeI577QDGcl7pBXlLOfby72V6Zzm3omcBi4XPhT1BHogk6XdBO+38dHOZSZQgGhGSt8tGjTuo8XAb4g==",
-          "group_index": "pDgo/AqEbK2t96/2dkNBT7iwUYleX8CiXm9w53QVGZY=",
-          "save_as": "JExNz99CMlm6LwgeVV+MP5YYj2eZXfTtJt8It4RUuog=",
-          "multiple": "YX0SZvoz+FXiXYd6WSKfYjRpU4ZYbASP+5bDVexjc2w="
+          "action": "parse_text",
+          "content_type": "markdown",
+          "regex": "91JAV 国内最新网址\\s+(https?://[^\\s]+)",
+          "group_index": 1,
+          "save_as": "real_domain",
+          "multiple": false
         },
         {
-          "action": "pXIBq5ddN5WaSzcY7kgI25H1bLDDhK6eks4hHahHMAM=",
-          "url": "8nOvAZFmq73fniJbdnyhk1n501orhEXWj1jrCADw3IU=",
-          "priority_scraper": "ABL9edvjSiKXigsmR61TiDo0g7OyNKFtaxRVen4eKd4=",
-          "max_retries": "n5VLz9ytyfMMQLqJBFpEOdmuADtYdE7zomvBfkJre4Q=",
-          "timeout": "2jop6ANVFQTjGrU2pApiUwp5z98Fn3aWROsvrYwyIVk=",
-          "force_js": "s6X1NjblEOpJCx1L/PyD/DJdt6aQ4P3TW9fom1cLHC0="
+          "action": "request_js",
+          "url": "{{real_domain}}",
+          "priority_scraper": true,
+          "max_retries": 3,
+          "timeout": 30,
+          "force_js": true
         },
         {
-          "action": "RnuKj4Prtyc48fOOgTQJZluaQB2oRvXDkv0oBX5DWFM=",
-          "selector": "UsRHLNyLMs41zfbyBeSdTOMEwgRF3U+gmUlCGgutPYQ=",
-          "attribute": "XEgaNF2DJRKdbH0DPbHEoYCLZG1FdMeubZxLv3DyZfU=",
-          "multiple": "gLMcQ266PCWofPcq/zKzEclJddwbEtgpNU2vswhpgVY=",
-          "save_as": "XdokOoNDQnaw1+hgXSL4inND/8lxvgLNUfoLf7O53Do="
+          "action": "select",
+          "selector": ".list a",
+          "attribute": "href",
+          "multiple": true,
+          "save_as": "domain_list"
         }
       ],
       "result": {
-        "domains": "qMCKq+l9n9mgYozgNJcMMR5FIqjfyZUf9eVrUjv6RNQ=",
-        "wd_url": "TRnUNt2rVBwmS6wLBzuL6leMLOClbVZ1kPEiR8s5+ao="
+        "domains": "{{domain_list}}",
+        "wd_url": "/cn/search/<*>"
       },
       "logic": {
         "platform_names": [
-          "9Tfw4b+CVqgtvdPocaXYoh/a+oYxKXdcDvgOUZzM4CE="
+          "91JAV"
         ],
         "invalid": [
           {
-            "type": "KqQRUato9vux5/1Dua5ZViNVPzWz1b2eJI9OkCuj5DQ=",
-            "selector": "okDp/HggnSa3JftA6iVfUNdkc661/FWPfWR9n5K8JYUTLzlyYys+Sz2d0spNUCvh",
-            "match": "RZHA96qLLgJtxuERbIR+BcnnFvNfAqiktDSitHQeNeM=",
-            "method": "p6AEfrvqMeYijxUPSX0qU4gISno/Bta6C202kAaFp4o="
+            "type": "html",
+            "selector": ".title-box .inactive-color",
+            "match": "0 部影片",
+            "method": "contains"
           }
         ],
         "valid": [
           {
-            "type": "lCdT/UELw7qVaIvVjjGNWONy5nQwOvfVgoY0Y5hg1vk=",
-            "selector": "83VLkUQ5mWMY9ngiwRRMPSqtoNSk/owt+fiKpFlKphWlSX+BgPp7HjdAjTSqJjRmBuq/cvcAvFy4UuR1hedZsiKKD0o7wsBY84/ecS+rT1w=",
-            "match": "qudtNyWBifiucrlGEzZDPaO8pdc4QoR5nSpQcYigx2Q=",
-            "method": "xf4v7bVcTx6/lpXn27KS8akFGVc6Yv9WrCtDZ0pArHA="
+            "type": "html",
+            "selector": ".video-img-box .title a, .video-img-box .img-box a",
+            "match": "{{keyword}}",
+            "method": "contains"
           }
         ]
       }

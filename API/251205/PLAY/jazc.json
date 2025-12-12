@@ -1,40 +1,40 @@
 {
-  "name": "3Tx3Xqo92FHwZgzbNKCrTlBsQkfajYHOWxz2lVsGxUA=",
-  "base_url": "6NXuvo5cPJKy+mr3Xj+HvveJLHmJR2gx/J6+EbHRdbelGYyBnNS/VEyEYdjlmITz",
+  "name": "[有码]JAV.ZC",
+  "base_url": "https://heimao.ja02.cc",
   "action_data": {
     "video_url": {
       "steps": [
         {
-          "action": "VWXSCGm93EJVxfhRwhq7jpb2bqoI2v2NwiZT3gkKMTUigzOZ6kCv5LqrsfE5VbGr",
-          "url": "8CMzARW82WHe4/ibSCeK/BCUHdTcWu1WfnjZUOtXZek=",
-          "priority_scraper": "PhchfabBx6pcjYqSA0QjC4p1RWiMp0VBLiU8/3z6EhM=",
-          "use_js": "Ha2ePHW4A4wr9RnymmJWGPhe2gO4DVc2ZoGdReCgdCo=",
-          "timeout": "bLFbc1p0MmyJ8KdZsm4VTG1Fr8PwR32zEmIDBVCsCuM="
+          "action": "request_redirect",
+          "url": "{{base_url}}",
+          "priority_scraper": true,
+          "use_js": true,
+          "timeout": 15
         }
       ],
       "result": {
-        "domains": "hDizBZMMP7CqCvRYQDXG/ye+tmVHzA2wkqSvrI07UO0=",
-        "wd_url": "NaZyFEm1K1Bue8lzdKc1uDZ7EIJiSqEWIv0dxCpMK8M21OWCazMztJnLpMNXLtR9"
+        "domains": "{{real_domain}}",
+        "wd_url": "/play/yjs/<*>.html?ref=HEIMAO"
       },
       "logic": {
         "platform_names": [
-          "TuaJvkduz7cG9ztmcKR0jfQVDmJVfuALbBuOZy5wPOw="
+          "[有码]JAV.ZC"
         ],
         "invalid": [
           {
-            "type": "QbrWeXMB9/WgZm+olAqWnVuiAgkPnvyXiwtq7F/fc9U=",
-            "selector": "391YnSEsLzAUZf9OwJmUKaDOqxU87NxZzJlGHoN8IFX7AlP7xI2MIaGjUMd8PMeR",
-            "match": "1yqQUSvBC6BvlzKK5Ujo+vSdxJF7Sz3b9EbbdG95GGQ=",
-            "method": "VhcN6g8FYEzVFYoGKn8xBBWKUaEa1H3yVz7St3Nb/sw=",
-            "invalid_on_not_found": "mTQoX4bn4xrez6Q3/gRtbIqbRkk98Eddi1ysuA3u8pQ="
+            "type": "html",
+            "selector": ".group-box .group-title",
+            "match": "{{keyword}}",
+            "method": "contains",
+            "invalid_on_not_found": true
           }
         ],
         "valid": [
           {
-            "type": "4N/MVuo8afriVQUO6ZAKGb33U9OApUablkRMqMK73yk=",
-            "selector": "9lA/qCy0rCgOL81EI2B/HCJIL7ipB+QOdX/osi+M6iUsBFrvNtGEGjs0bVI1k/r7",
-            "match": "cfZGwuv7ZkmrvhUby4Lj30ant+IbjxmIaigQSMKwnwQ=",
-            "method": "8oIGbonGz4Q+Gu55Cjpj2eaBtqYGO6ogNvxojdpbCeY="
+            "type": "html",
+            "selector": ".group-box .group-title",
+            "match": "{{keyword}}",
+            "method": "contains"
           }
         ]
       }

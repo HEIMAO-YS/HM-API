@@ -1,40 +1,40 @@
 {
-  "name": "yrS/UF5N5dwZR/Jx/tkB0AmQqb2yiXm5xwQ4Apa+F4I=",
-  "base_url": "pXatrRCRczTEGWpbBwYhgv7xTLR+nXQbBD4I5q3Bfd65an7DRGZ7U5pyaZFO+1pm",
+  "name": "LUST动态",
+  "base_url": "https://lustz.cc",
   "action_data": {
     "video_url": {
       "steps": [],
       "result": {
         "domains": [
-          "F69EjfL7wMvGnxFp1LAjQKuA1xAiWoVoi+Mwb7oXn32u+szUnvtnL6ET5TTpDuO5",
-          "t4s50Pfkvi28x3DRlbHtkvquzjS0T2axCW4NBCC2kKCdkUMzN6fVj8naNmuZAoIs",
-          "8F/GzJjLws5dSdMWIsyHStIkwdIeaDOag2c6ROo4roaXLRJM64xoU+roBhdWXfER",
-          "pF4zTOZBqrfvGp+SqpNmRszHgWjaXOmZjqJrL7H43pgIE8kqtV4j86h5DDAOWu22",
-          "R3I81ZHeJcJC9c1H+fGBse6Ar8ixFLAUqSOBmVtPRkcf6LNhceNMh1p6zNgtZS47",
-          "2JzPlgyWVVTBqTWWsg0ZP/cbhc5hRZGgqbgLjnl3kPZHZez2sQDmMmQt3pZpzQaQ",
-          "bQ6pqMqtt42GSMrre+y/EmWaBEG9zGqd0oN1X6cxHBw="
+          "https://lustg.cc",
+          "https://lusth.cc",
+          "https://lusti.cc",
+          "https://lustj.cc",
+          "https://lustk.cc",
+          "https://lustl.cc",
+          "{{base_url}}"
         ],
-        "wd_url": "0qd4aQU1ZezYHkxZ5DR+F4nqmjwI2DUebxNY3RASGdknv/HRFTlL2swOL89Xf/QdTeDm1dyRtNI7CQkhLdj/3w=="
+        "wd_url": "/index.php/vod/search.html?wd=<*>"
       },
       "logic": {
         "platform_names": [
-          "DBkB/wNbPEPrPXeN802kwIKzNTr5oGq83Ec2FeTHiOk="
+          "LUST动态"
         ],
         "invalid": [
           {
-            "type": "qsXo81v9DYBdoFrbI2Hiq59TOTU2SvWwF6A/QczGV0s=",
-            "selector": "IF+cgDdcv11wM5z9PpGr90+3ABfFR132Skxxm4ZslsBcLqpoeljFU7Em4oSkkoX+",
-            "match": "2zhmCItslXZXhAbCHoQFJGUQoK0QPlZiZNvLJKSx3Lg=",
-            "method": "rVHrWG+4PtkPakcI7O726O/HGgZCZntp6fEE2kmUwFo=",
-            "invalid_on_not_found": "P5QmFjFhAl7NfwjP6xOciA5KEAIaryr6qZqZx8v+oAk="
+            "type": "html",
+            "selector": ".grid .thumbnail .my-2 a",
+            "match": "{{keyword}}",
+            "method": "contains",
+            "invalid_on_not_found": true
           }
         ],
         "valid": [
           {
-            "type": "r/Yn8sKsAtAtr+u+pOTAEFjDutEMqmON6otkUWmoZag=",
-            "selector": "20pudqijyYyo/TzPtRGCG3u+1OKuZOBb4gUzHIoZbOXmYkBMH3HdE4QiWqPISf7Q",
-            "match": "sVKtzfGZpotPbWBiqXI1EQmPBRFUMEVZgmukiyH4+bk=",
-            "method": "djB7aujAA1W2D9CtYivzyOtnK8NCTeymuvsOAQhgD8w="
+            "type": "html",
+            "selector": ".grid .thumbnail .my-2 a",
+            "match": "{{keyword}}",
+            "method": "contains"
           }
         ]
       }
