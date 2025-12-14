@@ -1,5 +1,5 @@
 {
-    "bd":
+    "db":
     {
         "[-]fanhao.json": "https://raw.githubusercontent.com/HEIMAO-YS/HM-API/refs/heads/main/API/251205/DB/%5B-%5Dfanhao.json",
         "[1]airavio.json": "https://raw.githubusercontent.com/HEIMAO-YS/HM-API/refs/heads/main/API/251205/DB/%5B1%5Dairavio.json",
@@ -33,4 +33,5 @@
         "qmg2.json": "https://raw.githubusercontent.com/HEIMAO-YS/HM-API/refs/heads/main/API/251205/PLAY/qmg2.json",
         "nvc.json": "https://raw.githubusercontent.com/HEIMAO-YS/HM-API/refs/heads/main/API/251205/PLAY/nvc.json"
     }
+
 }
