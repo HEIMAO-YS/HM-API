@@ -1,29 +1,36 @@
 {
-  "db": {},
-  "video": {
-    "91j3.json": "https://raw.githubusercontent.com/HEIMAO-YS/HM-API/refs/heads/main/API/251205/PLAY/91j3.json",
-    "51av.json": "https://raw.githubusercontent.com/HEIMAO-YS/HM-API/refs/heads/main/API/251205/PLAY/51av.json",
-    "djrav.json": "https://raw.githubusercontent.com/HEIMAO-YS/HM-API/refs/heads/main/API/251205/PLAY/djrav.json",
-    "yiren1.json": "https://raw.githubusercontent.com/HEIMAO-YS/HM-API/refs/heads/main/API/251205/PLAY/yiren1.json",
-    "klo.json": "https://raw.githubusercontent.com/HEIMAO-YS/HM-API/refs/heads/main/API/251205/PLAY/klo.json",
-    "jazc.json": "https://raw.githubusercontent.com/HEIMAO-YS/HM-API/refs/heads/main/API/251205/PLAY/jazc.json",
-    "007.json": "https://raw.githubusercontent.com/HEIMAO-YS/HM-API/refs/heads/main/API/251205/PLAY/007.json",
-    "jzyu.json": "https://raw.githubusercontent.com/HEIMAO-YS/HM-API/refs/heads/main/API/251205/PLAY/jzyu.json",
-    "lost.json": "https://raw.githubusercontent.com/HEIMAO-YS/HM-API/refs/heads/main/API/251205/PLAY/lost.json",
-    "nvcu.json": "https://raw.githubusercontent.com/HEIMAO-YS/HM-API/refs/heads/main/API/251205/PLAY/nvcu.json",
-    "mmsspro.json": "https://raw.githubusercontent.com/HEIMAO-YS/HM-API/refs/heads/main/API/251205/PLAY/mmsspro.json",
-    "chimi.json": "https://raw.githubusercontent.com/HEIMAO-YS/HM-API/refs/heads/main/API/251205/PLAY/chimi.json",
-    "91ck.json": "https://raw.githubusercontent.com/HEIMAO-YS/HM-API/refs/heads/main/API/251205/PLAY/91ck.json",
-    "jzy.json": "https://raw.githubusercontent.com/HEIMAO-YS/HM-API/refs/heads/main/API/251205/PLAY/jzy.json",
-    "qmg2.json": "https://raw.githubusercontent.com/HEIMAO-YS/HM-API/refs/heads/main/API/251205/PLAY/qmg2.json",
-    "nvc.json": "https://raw.githubusercontent.com/HEIMAO-YS/HM-API/refs/heads/main/API/251205/PLAY/nvc.json",
-    "avhub.json": "https://raw.githubusercontent.com/HEIMAO-YS/HM-API/refs/heads/main/API/251205/PLAY/avhub.json",
-    "yiren2.json": "https://raw.githubusercontent.com/HEIMAO-YS/HM-API/refs/heads/main/API/251205/PLAY/yiren2.json",
-    "qmg1.json": "https://raw.githubusercontent.com/HEIMAO-YS/HM-API/refs/heads/main/API/251205/PLAY/qmg1.json",
-    "91j3b.json": "https://raw.githubusercontent.com/HEIMAO-YS/HM-API/refs/heads/main/API/251205/PLAY/91j3b.json",
-    "jazcu.json": "https://raw.githubusercontent.com/HEIMAO-YS/HM-API/refs/heads/main/API/251205/PLAY/jazcu.json",
-    "jptt.json": "https://raw.githubusercontent.com/HEIMAO-YS/HM-API/refs/heads/main/API/251205/PLAY/jptt.json",
-    "91j.json": "https://raw.githubusercontent.com/HEIMAO-YS/HM-API/refs/heads/main/API/251205/PLAY/91j.json",
-    "hsck.json": "https://raw.githubusercontent.com/HEIMAO-YS/HM-API/refs/heads/main/API/251205/PLAY/hsck.json"
-  }
+    "bd":
+    {
+        "[-]fanhao.json": "https://raw.githubusercontent.com/HEIMAO-YS/HM-API/refs/heads/main/API/251205/DB/%5B-%5Dfanhao.json",
+        "[1]airavio.json": "https://raw.githubusercontent.com/HEIMAO-YS/HM-API/refs/heads/main/API/251205/DB/%5B1%5Dairavio.json",
+        "[2]avmoo.json": "https://raw.githubusercontent.com/HEIMAO-YS/HM-API/refs/heads/main/API/251205/DB/%5B2%5Davmoo.json",
+        "[3]javbus.json": "https://raw.githubusercontent.com/HEIMAO-YS/HM-API/refs/heads/main/API/251205/DB/%5B3%5Djavbus.json"
+    },
+    "video":
+    {
+        "91j3.json": "https://raw.githubusercontent.com/HEIMAO-YS/HM-API/refs/heads/main/API/251205/PLAY/91j3.json",
+        "jptt.json": "https://raw.githubusercontent.com/HEIMAO-YS/HM-API/refs/heads/main/API/251205/PLAY/jptt.json",
+        "chimi.json": "https://raw.githubusercontent.com/HEIMAO-YS/HM-API/refs/heads/main/API/251205/PLAY/chimi.json",
+        "yiren2.json": "https://raw.githubusercontent.com/HEIMAO-YS/HM-API/refs/heads/main/API/251205/PLAY/yiren2.json",
+        "jzyu.json": "https://raw.githubusercontent.com/HEIMAO-YS/HM-API/refs/heads/main/API/251205/PLAY/jzyu.json",
+        "mmsspro.json": "https://raw.githubusercontent.com/HEIMAO-YS/HM-API/refs/heads/main/API/251205/PLAY/mmsspro.json",
+        "jzy.json": "https://raw.githubusercontent.com/HEIMAO-YS/HM-API/refs/heads/main/API/251205/PLAY/jzy.json",
+        "djrav.json": "https://raw.githubusercontent.com/HEIMAO-YS/HM-API/refs/heads/main/API/251205/PLAY/djrav.json",
+        "nvcu.json": "https://raw.githubusercontent.com/HEIMAO-YS/HM-API/refs/heads/main/API/251205/PLAY/nvcu.json",
+        "lost.json": "https://raw.githubusercontent.com/HEIMAO-YS/HM-API/refs/heads/main/API/251205/PLAY/lost.json",
+        "yiren1.json": "https://raw.githubusercontent.com/HEIMAO-YS/HM-API/refs/heads/main/API/251205/PLAY/yiren1.json",
+        "klo.json": "https://raw.githubusercontent.com/HEIMAO-YS/HM-API/refs/heads/main/API/251205/PLAY/klo.json",
+        "jazcu.json": "https://raw.githubusercontent.com/HEIMAO-YS/HM-API/refs/heads/main/API/251205/PLAY/jazcu.json",
+        "91j3b.json": "https://raw.githubusercontent.com/HEIMAO-YS/HM-API/refs/heads/main/API/251205/PLAY/91j3b.json",
+        "91j.json": "https://raw.githubusercontent.com/HEIMAO-YS/HM-API/refs/heads/main/API/251205/PLAY/91j.json",
+        "avhub.json": "https://raw.githubusercontent.com/HEIMAO-YS/HM-API/refs/heads/main/API/251205/PLAY/avhub.json",
+        "jazc.json": "https://raw.githubusercontent.com/HEIMAO-YS/HM-API/refs/heads/main/API/251205/PLAY/jazc.json",
+        "qmg1.json": "https://raw.githubusercontent.com/HEIMAO-YS/HM-API/refs/heads/main/API/251205/PLAY/qmg1.json",
+        "hsck.json": "https://raw.githubusercontent.com/HEIMAO-YS/HM-API/refs/heads/main/API/251205/PLAY/hsck.json",
+        "51av.json": "https://raw.githubusercontent.com/HEIMAO-YS/HM-API/refs/heads/main/API/251205/PLAY/51av.json",
+        "007.json": "https://raw.githubusercontent.com/HEIMAO-YS/HM-API/refs/heads/main/API/251205/PLAY/007.json",
+        "91ck.json": "https://raw.githubusercontent.com/HEIMAO-YS/HM-API/refs/heads/main/API/251205/PLAY/91ck.json",
+        "qmg2.json": "https://raw.githubusercontent.com/HEIMAO-YS/HM-API/refs/heads/main/API/251205/PLAY/qmg2.json",
+        "nvc.json": "https://raw.githubusercontent.com/HEIMAO-YS/HM-API/refs/heads/main/API/251205/PLAY/nvc.json"
+    }
 }

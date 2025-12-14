@@ -1,50 +1,50 @@
 {
-  "name": "gYywIkDBmUsjgugn+Kr6bMtBQlOoWn9HymcEUuxZ0mk=",
-  "base_url": "5mQM9dBmBz+Zq5XOfKtCBJ1kgphk7UUm57nILdf5LHORcUEk2blFajn/JrRuIF3H",
+  "name": "OCWC1O0TK+EWCvPOyHTlVCYYZaPYKwLH+AUP1T0C2U8=",
+  "base_url": "n5P0lfbhdAdE6aozGXoi7VLzAG+H1QMArd/+kBHP/p0bnrLciJZ/DqoKcFP622c7",
   "action_data": {
     "video_url": {
       "steps": [],
       "result": {
-        "domains": "NnwjVfe4x+AErUu9Q5323BmZvrqAKwqX0o/c+nXBKhw=",
-        "wd_url": "uM1RcVL3mHhaAlIS4GvHgaS5iZKlglHDfro6mib94dY/9rWAVcrcjepUQGx0m2jc"
+        "domains": "+1HUgswdOrQ4jcDEk+oBPxFhLC5XKC2+cakOIkaTuhM=",
+        "wd_url": "HshEnfQSXvrBI1/ivf1EEWCHbSl6aMXHONFRXurysAT7x/8Ww1J2lPRWIdPq74Y6"
       },
       "logic": {
         "platform_names": [
-          "SqWFkgKlhZ+B3VLhXXmxW1fLnxHh4WurBg3dANNZa0c=",
-          "vnSv+HPSRsHQG/gN5v/7NXDy/4jgq1Ks7KOcAeM6rXw="
+          "b4NlQ/5a6gM+Dr9ipjqWY6mo+VSrGO3HicUKlWTlifE=",
+          "Ee8CAKmsemAWSw5jo032aEsVfSXlT1bA3cNNMrVLWo8="
         ],
         "invalid": [
           {
-            "type": "rhbVR77dXl/Vy2/rmVhyw6xmCn7tyuqFx3j1Y10aaE4=",
-            "selector": "fGHZC86ksDWDpa7+QVohACTPjDy9Yue3UTVm7CuryBk=",
-            "match": "tGSDM2Fdb1YxVXTOdkn/OVsiyug0/LZh09T26mHuhFRgz6z1JJ45e56mOzNKcF3URFf4C6+JaHQ/taSq8cr+pA==",
-            "method": "yyor8bu7Z5FigKAzMbOG+h1X70zLRr/MVtNejqkriWY="
+            "type": "c5A8bMXWXMo5c3YBz4PrxoahhLuKXNKDI8UDCNVfb0M=",
+            "selector": "fWUNUIpYHuSp3CRYAKMlBP68+wFPl/G0GFeTWHcUAZM=",
+            "match": "WIl5YPmaQQjiMW2VzXBn8gughduffjek2poT4WG7mAbg3TBUmEragB/RNaQ5qcVhFWz9UmcEqZIWeQiNrbUP0w==",
+            "method": "cpXbJIGR2Av6VBQNdHVSFmDRcXLDoqXP/IAlRewmiYE="
           },
           {
-            "type": "GrQta4dCNYzKZQJVkN0bZLzenm6m3bZmMTxRlxA6kw4=",
-            "selector": "EhIEt9wHWxklmCTlSjLdW62KbP98xE8gvqYrPn9xKZ8=",
-            "match": "rxbKdzvT5fP5Untl3C7WguDFDyPV2oBTH4YznmdyONo=",
-            "method": "OSNgvQ59TA8uGKRl+Ly5d9sMnh+3ngk141/m3cwZXvg="
+            "type": "x2R3c1sIANE0qmrnPKk54pkcsmC88ObjK82W3lA+ho4=",
+            "selector": "yIeryedji+EJATcfWT7Se6Gau5uCZoccj62+O+6+wkg=",
+            "match": "zb/gmshbpvl0po+D0RGf1tgIQkeKUqRt2QjvgRQpXN0=",
+            "method": "PJcXW1hSRWh+ockUZmigJKshGSpJnZkcd4IuNEdRetk="
           },
           {
-            "type": "KT0hNyGq2Rh4XLU+HTdI3m4r9kaf/nmQWCvf8AFn+u8=",
-            "selector": "0Sq4s++6jbRiExcwANYxxTDLjfa42o3fsfKUdlUCOJkE+KEXQK6+h0YPKEG65J4L",
-            "match": "4rWSXNvwJ65uP0nyO2E4buEP4wJT7u84TAQ+KXyhcxQ=",
-            "method": "77YES4xjiRlCaggZiC/HwUY1q5K0/Eq/GHNF9HR6090="
+            "type": "xguxWAFksW0gDSqMSfToxAvuCx000ukHd4lISui95H4=",
+            "selector": "lDBBti1Zai8VoddNkLxrFsAHnJCCzU6H7CucuNc4KL8JL9aOLmTRc8RDQThFvLrq",
+            "match": "mluIjcNXmTOVAG3tKazCj8lbd/+BOGaZsc2kHr4EC4A=",
+            "method": "n77eSKIaeomsESc/Ul61UuVz6x4gp3Lg6NZGpBrzn+Q="
           }
         ],
         "valid": [
           {
-            "type": "8jtAkbi3n/z/PyQvDfl3+G7SRo6hBygjJuq/hODuotQ=",
-            "selector": "0CsiUYxYN8nj4vM4ltKxxuuBQoZCPIoDC2ZLsLDDrUA=",
-            "match": "mT+NJ/T8S6jl9lp1rhTyha9E5jQJHj5VwmIwvO3TuuQ=",
-            "method": "DOrLTyhf5QQFSqYRq/sZuRRQGJxfbyzoMGGKXunxN+8="
+            "type": "iZ4cnsOHCwne0ViuWiYokdL5dpMB00sEXG02ck1Y0rg=",
+            "selector": "+hFR6dquhPTT/xNOdZMfzwXPY9+u99X+aJr7/MA4MnA=",
+            "match": "/tVVP1M24Iy1QTu8LUcJ5EwDl6cSI+7FYG4wGYtqO+w=",
+            "method": "LKHasARnc5hl6V+nZWNJFd4/Tvb5NAC9EtlIOCMYztw="
           },
           {
-            "type": "cf0MvYdGiWcaiNyLqzrSkuNmTZY6F+8kbBiR4p2HtT0=",
-            "selector": "S8HGq8Vf7m4etyWR2zt7whDwBGVyD+p47jLqsMsXnVoWVd3BHwxcvbVf3gMqP928",
-            "match": "LllgWvXGQLySRyhuHUYD4pBmQVWtl9lj3nbhGyJM214=",
-            "method": "RwvRR9ABaoRcUHjoEiQ0cjSZxjc5F2cYzPNCPUkvzMk="
+            "type": "PcH1G6On3UHXDJSCwT5NMZ3vKEBv77gtkHJee+TA3nU=",
+            "selector": "GN5QdQBi/X3w0XNgO7ZDKcDLMNglQrryb9xFsZBQbeVD5Ol+FHuDb7RGYxhH3Z9J",
+            "match": "5LMOXz6sdifCfX+Ch05/+Zy2bg9bCeplzAiUs+eVMIo=",
+            "method": "FyKApKuCza8Wptsjh9qBEpOv560hDuv0rivxRh9Ul8Y="
           }
         ]
       }
