@@ -1,0 +1,59 @@
+{
+  "name": "Ft4pqaum2eWYAUS3VOtWr0FTfN9L0Q7FSGXM7hfU4BJY8Ej9MJOYrik+75TSPFjA",
+  "base_url": "/FtyZ6CbobeFY+n5nScdXW61uhgPTrrWZS7vKIOaReXLQjpmpjG+eP+3vch58gC5",
+  "action_data": {
+    "video_url": {
+      "steps": [
+        {
+          "action": "wbh/B353oBVxrrN7nOBie5GDaxNtQIICQFYXyToBO0OLhvuZ1a1obZvWLGHdpEXK",
+          "url": "dIMOWL+eS+glcBsU5h1WHwUEaF4loZi5McnuuLcApcs=",
+          "priority_scraper": "5tAxiZtwoHDONCDIPXp+fuKYEgTaHZRjoFagMQvEVAY=",
+          "use_js": "5d9j7D0WTJylAAeVdti8DV9VesG+xNmEkJVpTgaN9tQ=",
+          "timeout": "doDGsGLOn2aPvVUOq/yayDGhWfqtjtQG6rjdORaaAgY="
+        }
+      ],
+      "result": {
+        "domains": "/NEY9qtIrsOyabnrJ6pVtc0bdiO1J0jxp2lBA1HdFp8=",
+        "wd_url": "ZQY+vAh2BE+qSPxzXzv/uEHP/LL7lSIQ54lKLFQi/rLrESenSqHkj68inxOpHT+F"
+      },
+      "logic": {
+        "platform_names": [
+          "Bx9TPX4Nr+Va0yPcA7CathxVR1c2nQqbH3p9zJjWu4ZzqhmsXOZUTY12mfwxuy8Z",
+          "R1tanZJU6OMHdLBzhzLb1kRHx0SSfjEB9QZLAiVZmUw="
+        ],
+        "invalid": [
+          {
+            "type": "X/I8V6vV/YaROCeVEoURxNFYzmsV+vXW2KBo1r0Oels=",
+            "selector": "vzAwSx91gYqcU69Qg2upXl1qscsCyf7FGEC61NAqS6Q=",
+            "empty": "H4KBOqTrUJx21iI9y5P9Zao2jtVPqhLzxqZ36y3Xsgs="
+          },
+          {
+            "type": "++rFKFWH+rD8gGufA4INEuXl6PupvMrNLQP93yAlh8s=",
+            "selector": "ydZSeWbTKzvxLOcLW38by/IKhCzoPF5kEwzRCpJNDxI=",
+            "match": "FAYkvt9WS/AT0SgO/Os9BXHQ0yxATvQPnMCwUZkL5XE=",
+            "method": "ZRabLSMn+kPJlnaIqWswYHBfEj4KYvUOFfcYA2os8EM=",
+            "invert": "zJ3KGH3rFd/irFVEqIlCn5vusV0bQBKj9OMLB1dTr8I="
+          }
+        ],
+        "valid": [
+          {
+            "type": "JqVvQlbCfTIFV8xy6tIzkGEU5taY7lrQ/s6KvC7RqDs=",
+            "selector": "9ztUlQ2KnztCbTfq3T29Mr0U9aT7CxiTL9quQnLCZVjzwOutqSjKP44wOUj2V6XQ",
+            "match": "1pwvqb3vOH/DyhzSb5c+zkILZPeDGEYwhjSxFg0FJMc=",
+            "method": "nWuCUiQh9KxhI5DFEKDwQVs6670DHo5OIbC9qXu0YrU="
+          },
+          {
+            "type": "/aW5agPl3+31e9YPMjrmvH+FFjHHVQGr4mpMzIueSec=",
+            "match": "bLSB4nKKfNCVjIb9YTRaw0BYuUg2CPGSsfMNc1NG1jE=",
+            "method": "UEv2Ti8oHW+QkMWRPB5t165H13mNldPOlWFODx/GVlg="
+          },
+          {
+            "type": "4O7xK9mq6er7lUnT7u79rJpVPqHNlT31e/h1J8g8ZP8=",
+            "selector": "zCIr+2lL6a0/Yc4Fs081fIYh1GN3Q8jLDS3DkDmirh8=",
+            "min_count": "c0liPljPd9MAM+VQt4Yu7tFHSZwAHr6J2TU00rA9e1M="
+          }
+        ]
+      }
+    }
+  }
+}

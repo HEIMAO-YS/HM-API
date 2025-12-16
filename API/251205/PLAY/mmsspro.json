@@ -1,0 +1,52 @@
+{
+  "name": "gWM/oR1MiK/ZhV0d3gVNq++OAOM+QMEgxBmUEqiK06o=",
+  "base_url": "96Rh5fbjXlEZc5N/zWOiLoNlLpLatLv+mpZJRTLgV/Y1REJ58J/NhhGCjeVDH+pE",
+  "action_data": {
+    "video_url": {
+      "steps": [
+        {
+          "action": "QSyO7zeBFmFUGqwrMCWGyEKPlqK6QkVxxgxpdDsXhqc=",
+          "url": "qN37yNV12rFjSdb/niJCYtvvhbD8ZXwPOIby/5Pk478=",
+          "priority_scraper": "JEY368w9YJvsomXarDAlW5syKho+JKteyKd7CRm6FJM=",
+          "max_retries": "ZMOQbLc+IhYKm/2IgzGLKzE+bMArgj2zsFgPe/cQxvA=",
+          "timeout": "c0cOOeRZrVrlSQt0Fh3D2DBQXQEU3ZdADpPc8ANd+uY="
+        },
+        {
+          "action": "GzYieSqpNeRBWdE/GtYym6Ja+6ArM+S8GLFN1jnldUQ=",
+          "save_as": "R4CqWBXFu7a7FOSub47raqF2gdXbSdbLRPEuMh4Ic3k="
+        }
+      ],
+      "result": {
+        "domains": "+T0mjsiX2fDTgtSt9oBlhCjlzDR/AccBwSyNRc5esKA=",
+        "wd_url": "FF+a3YebkjliZH9IIwAkoWFM4WTTuhoDvi+V8G4Qcvk4ErYPy7vsoF+wju9+6z/AV0svWeqc73+3o5arpeszcg=="
+      },
+      "logic": {
+        "platform_names": [
+          "waUQr2pGjrSW/fbP2Kg1lezEvzAGVH36/+T3uFN5X1M="
+        ],
+        "invalid": [
+          {
+            "type": "ayz0sW64d4iKm4y9zIra58UScjlRoxt+NF5/Ky1l58c=",
+            "selector": "OtZSaPc6vpaJX9298jkNlNDNg11OjqXpizZCJdoZzsJuLDvQx1LesmhjK/qM4X+V",
+            "match": "sfIBkdnFv/mKZgHWlvxRQHTk0VtIucxLXVEpAJW2M4z+pz+/CsHO20KUfDdjULZR",
+            "method": "zhkKQ3aetjVo2UojsKOSqHk3jeWkqbFxZTQoTURC85k="
+          },
+          {
+            "type": "GDWwdAq2BXGCuKcWnhA6oBappPaRPZLkQrzMRDgT6iY=",
+            "selector": "39uTY+PoXnRiJc9sehtmIQ0inN/6f5hGqVzvs+OGtCFKNcZfnNsa8y6DNdAMfIyV9d/6S9mrQSRd5GN1PRejTQ==",
+            "match": "eb2Fb+//kJIRKLxVK5LRGSpnZBYRKwCe3h5YLBj/U0A=",
+            "method": "4yZeVaWykT8xbYjsVU0/XHj1gCZWvBzjDprmOw2qc1Q="
+          }
+        ],
+        "valid": [
+          {
+            "type": "NXTybvIza+5/uFf1jQCgwJLTz2QbuNC+S3L3NfE0fo4=",
+            "selector": "4anKhCjCaaAQRfdqbOfahWR2Kt6QnKpy/d7zCNzKPhm4InjjD0JYnt3jN3B1y4+8",
+            "match": "WJqWTQ3WvgWnkJW4MfF5iSz/7r4suoQDZSuESrPf02c=",
+            "method": "N9KEX7cTjo9SJ9tCDoZ2fV1c9cpXTGlDz++MkR7uKDI="
+          }
+        ]
+      }
+    }
+  }
+}
