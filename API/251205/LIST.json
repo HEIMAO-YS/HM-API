@@ -1,39 +1,38 @@
 {
-    "db":
-    {
-        "[-]fanhao.json": "https://raw.githubusercontent.com/HEIMAO-YS/HM-API/refs/heads/main/API/251205/DB/%5B-%5Dfanhao.json",
-        "[1]airavio.json": "https://raw.githubusercontent.com/HEIMAO-YS/HM-API/refs/heads/main/API/251205/DB/%5B1%5Dairavio.json",
-        "[2]avmoo.json": "https://raw.githubusercontent.com/HEIMAO-YS/HM-API/refs/heads/main/API/251205/DB/%5B2%5Davmoo.json",
-        "[3]javbus.json": "https://raw.githubusercontent.com/HEIMAO-YS/HM-API/refs/heads/main/API/251205/DB/%5B3%5Djavbus.json"
-    },
-    "video":
-    {
-        "91j3.json": "https://raw.githubusercontent.com/HEIMAO-YS/HM-API/refs/heads/main/API/251205/PLAY/91j3.json",
-        "jptt.json": "https://raw.githubusercontent.com/HEIMAO-YS/HM-API/refs/heads/main/API/251205/PLAY/jptt.json",
-        "chimi.json": "https://raw.githubusercontent.com/HEIMAO-YS/HM-API/refs/heads/main/API/251205/PLAY/chimi.json",
-        "yiren2.json": "https://raw.githubusercontent.com/HEIMAO-YS/HM-API/refs/heads/main/API/251205/PLAY/yiren2.json",
-        "jzyu.json": "https://raw.githubusercontent.com/HEIMAO-YS/HM-API/refs/heads/main/API/251205/PLAY/jzyu.json",
-        "mmsspro.json": "https://raw.githubusercontent.com/HEIMAO-YS/HM-API/refs/heads/main/API/251205/PLAY/mmsspro.json",
-        "jzy.json": "https://raw.githubusercontent.com/HEIMAO-YS/HM-API/refs/heads/main/API/251205/PLAY/jzy.json",
-        "djrav.json": "https://raw.githubusercontent.com/HEIMAO-YS/HM-API/refs/heads/main/API/251205/PLAY/djrav.json",
-        "nvcu.json": "https://raw.githubusercontent.com/HEIMAO-YS/HM-API/refs/heads/main/API/251205/PLAY/nvcu.json",
-        "lost.json": "https://raw.githubusercontent.com/HEIMAO-YS/HM-API/refs/heads/main/API/251205/PLAY/lost.json",
-        "yiren1.json": "https://raw.githubusercontent.com/HEIMAO-YS/HM-API/refs/heads/main/API/251205/PLAY/yiren1.json",
-        "klo.json": "https://raw.githubusercontent.com/HEIMAO-YS/HM-API/refs/heads/main/API/251205/PLAY/klo.json",
-        "kwy.json": "https://raw.githubusercontent.com/HEIMAO-YS/HM-API/refs/heads/main/API/251205/PLAY/kwy.json",
-        "jazcu.json": "https://raw.githubusercontent.com/HEIMAO-YS/HM-API/refs/heads/main/API/251205/PLAY/jazcu.json",
-        "91j3b.json": "https://raw.githubusercontent.com/HEIMAO-YS/HM-API/refs/heads/main/API/251205/PLAY/91j3b.json",
-        "91j.json": "https://raw.githubusercontent.com/HEIMAO-YS/HM-API/refs/heads/main/API/251205/PLAY/91j.json",
-        "avhub.json": "https://raw.githubusercontent.com/HEIMAO-YS/HM-API/refs/heads/main/API/251205/PLAY/avhub.json",
-        "jazc.json": "https://raw.githubusercontent.com/HEIMAO-YS/HM-API/refs/heads/main/API/251205/PLAY/jazc.json",
-        "qmg1.json": "https://raw.githubusercontent.com/HEIMAO-YS/HM-API/refs/heads/main/API/251205/PLAY/qmg1.json",
-        "hsck.json": "https://raw.githubusercontent.com/HEIMAO-YS/HM-API/refs/heads/main/API/251205/PLAY/hsck.json",
-        "51av.json": "https://raw.githubusercontent.com/HEIMAO-YS/HM-API/refs/heads/main/API/251205/PLAY/51av.json",
-        "007.json": "https://raw.githubusercontent.com/HEIMAO-YS/HM-API/refs/heads/main/API/251205/PLAY/007.json",
-        "91ck.json": "https://raw.githubusercontent.com/HEIMAO-YS/HM-API/refs/heads/main/API/251205/PLAY/91ck.json",
-        "qmg2.json": "https://raw.githubusercontent.com/HEIMAO-YS/HM-API/refs/heads/main/API/251205/PLAY/qmg2.json",
-        "nvc.json": "https://raw.githubusercontent.com/HEIMAO-YS/HM-API/refs/heads/main/API/251205/PLAY/nvc.json"
-    }
-
+  "db": {
+    "avmoo.json": "https://raw.githubusercontent.com/HEIMAO-YS/HM-API/refs/heads/main/API/251205/DB/avmoo.json",
+    "airavio.json": "https://raw.githubusercontent.com/HEIMAO-YS/HM-API/refs/heads/main/API/251205/DB/airavio.json",
+    "javbus.json": "https://raw.githubusercontent.com/HEIMAO-YS/HM-API/refs/heads/main/API/251205/DB/javbus.json",
+    "fhly.json": "https://raw.githubusercontent.com/HEIMAO-YS/HM-API/refs/heads/main/API/251205/DB/fhly.json",
+    "fanhao.json": "https://raw.githubusercontent.com/HEIMAO-YS/HM-API/refs/heads/main/API/251205/DB/fanhao.json"
+  },
+  "video": {
+    "klo.json": "https://raw.githubusercontent.com/HEIMAO-YS/HM-API/refs/heads/main/API/251205/PLAY/klo.json",
+    "myav.json": "https://raw.githubusercontent.com/HEIMAO-YS/HM-API/refs/heads/main/API/251205/PLAY/myav.json",
+    "91j3.json": "https://raw.githubusercontent.com/HEIMAO-YS/HM-API/refs/heads/main/API/251205/PLAY/91j3.json",
+    "mmsspro.json": "https://raw.githubusercontent.com/HEIMAO-YS/HM-API/refs/heads/main/API/251205/PLAY/mmsspro.json",
+    "avhub.json": "https://raw.githubusercontent.com/HEIMAO-YS/HM-API/refs/heads/main/API/251205/PLAY/avhub.json",
+    "jzyu.json": "https://raw.githubusercontent.com/HEIMAO-YS/HM-API/refs/heads/main/API/251205/PLAY/jzyu.json",
+    "qmg2.json": "https://raw.githubusercontent.com/HEIMAO-YS/HM-API/refs/heads/main/API/251205/PLAY/qmg2.json",
+    "jazc.json": "https://raw.githubusercontent.com/HEIMAO-YS/HM-API/refs/heads/main/API/251205/PLAY/jazc.json",
+    "chimi.json": "https://raw.githubusercontent.com/HEIMAO-YS/HM-API/refs/heads/main/API/251205/PLAY/chimi.json",
+    "51av.json": "https://raw.githubusercontent.com/HEIMAO-YS/HM-API/refs/heads/main/API/251205/PLAY/51av.json",
+    "91j3b.json": "https://raw.githubusercontent.com/HEIMAO-YS/HM-API/refs/heads/main/API/251205/PLAY/91j3b.json",
+    "nvc.json": "https://raw.githubusercontent.com/HEIMAO-YS/HM-API/refs/heads/main/API/251205/PLAY/nvc.json",
+    "007.json": "https://raw.githubusercontent.com/HEIMAO-YS/HM-API/refs/heads/main/API/251205/PLAY/007.json",
+    "jazcu.json": "https://raw.githubusercontent.com/HEIMAO-YS/HM-API/refs/heads/main/API/251205/PLAY/jazcu.json",
+    "yiren2.json": "https://raw.githubusercontent.com/HEIMAO-YS/HM-API/refs/heads/main/API/251205/PLAY/yiren2.json",
+    "jzy.json": "https://raw.githubusercontent.com/HEIMAO-YS/HM-API/refs/heads/main/API/251205/PLAY/jzy.json",
+    "lost.json": "https://raw.githubusercontent.com/HEIMAO-YS/HM-API/refs/heads/main/API/251205/PLAY/lost.json",
+    "xaw.json": "https://raw.githubusercontent.com/HEIMAO-YS/HM-API/refs/heads/main/API/251205/PLAY/xaw.json",
+    "hsck.json": "https://raw.githubusercontent.com/HEIMAO-YS/HM-API/refs/heads/main/API/251205/PLAY/hsck.json",
+    "nvcu.json": "https://raw.githubusercontent.com/HEIMAO-YS/HM-API/refs/heads/main/API/251205/PLAY/nvcu.json",
+    "yiren1.json": "https://raw.githubusercontent.com/HEIMAO-YS/HM-API/refs/heads/main/API/251205/PLAY/yiren1.json",
+    "kwy.json": "https://raw.githubusercontent.com/HEIMAO-YS/HM-API/refs/heads/main/API/251205/PLAY/kwy.json",
+    "qmg1.json": "https://raw.githubusercontent.com/HEIMAO-YS/HM-API/refs/heads/main/API/251205/PLAY/qmg1.json",
+    "91j.json": "https://raw.githubusercontent.com/HEIMAO-YS/HM-API/refs/heads/main/API/251205/PLAY/91j.json",
+    "91ck.json": "https://raw.githubusercontent.com/HEIMAO-YS/HM-API/refs/heads/main/API/251205/PLAY/91ck.json",
+    "djrav.json": "https://raw.githubusercontent.com/HEIMAO-YS/HM-API/refs/heads/main/API/251205/PLAY/djrav.json",
+    "jptt.json": "https://raw.githubusercontent.com/HEIMAO-YS/HM-API/refs/heads/main/API/251205/PLAY/jptt.json"
+  }
 }
-
